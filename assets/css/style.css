@@ -248,6 +248,18 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	margin:0 auto;
 }
 
+/*Image container */
+.imgContainer{
+	width: 502px;
+	height: 281px;
+	position: relative
+}
+
+.imgContainer img {
+	width: 100%;
+	height: auto;
+}
+
 /***********************************************************/
 /*                   Theme: text shadows                   */
 /***********************************************************/
