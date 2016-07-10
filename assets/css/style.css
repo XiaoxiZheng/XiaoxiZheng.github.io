@@ -250,12 +250,23 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 
 /*Image container */
 .imgContainer{
-	width: 502px;
-	height: 281px;
+	width: 70%;
+	height: auto%;
 	position: relative
 }
 
 .imgContainer img {
+	width: 100%;
+	height: auto;
+}
+
+.imgContainerVertical{
+	width: 230pt;
+	height: auto;
+	position: relative
+}
+
+.imgContainerVertical img {
 	width: 100%;
 	height: auto;
 }
