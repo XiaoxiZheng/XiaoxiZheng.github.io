@@ -1,402 +1,660 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Xiaoxi Zheng is an end to end user experience designer passionate about translating complex problems into human-centered interactions and crafting scalable solutions across digital interfaces.">
-
-	<title>Xiaoxi Zheng</title>
-
-	<!-- Bootstrap itself -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-	<link rel="stylesheet" href="http://silviomoreto.github.io/bootstrap-select/dist/css/bootstrap-select.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/css/style.css">
-
-
-	<link rel="icon" type="image/png" href="assets/images/portfolio/favicon_xz.png">
-
-	<!-- Fonts -->
-	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href='http://fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>
-
-	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-90956733-1', 'auto');
-	  ga('send', 'pageview');
-	</script>
-
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Xiaoxi Zheng - User Experience Interaction Designer </title>
+    <meta name="description" content="Xiaoxi Zheng is an end to end user experience designer passionate about translating complex problems into human-centered interactions and crafting scalable solutions across digital interfaces.">
+    <meta name="author" content="Xiaoxi Zheng" />
+    <!-- <link rel="icon" href="images/favicon.ico" /> -->
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+    <link rel="stylesheet" href="css/plugins.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
 </head>
 
-<body class="theme-invert">
+<body>
+    <div class="preloader">
+        <div class="anim pulse"><i class="ion-ios-bolt-outline"></i></div>
+    </div>
+    <div class="preloader-left"></div>
+    <div class="inline-menu-container">
+        <!-- <span class="status">I am available for freelance</span> -->
+        <ul class="inline-menu">
+            <li class="about menu-item">Resume</li>
+            <li class="portfolio menu-item">Portfolio</li>
+            <!-- <li class="blog menu-item">Blog</li> -->
+            <li class="contact menu-item">Contact</li>
+            <li id="close" class="menu-item"><i class="ion-ios-close-empty"></i></li>
+        </ul>
+    </div>
+    <section class="home img-bg" style="background: url(images/bg/custom/me_hanging.jpg) no-repeat center center fixed; min-height: 100%; background-size: cover;">
+        <div class="overlay opacity5"></div>
+        <div class="container">
+            <div class="name-block">
+                <div class="name-block-container">
+                    <h1><span>Hi, I'm</span>Xiaoxi Zheng</h1>
+                    <h2 id="element"></h2>
+                    <a target="_blank" href="resume.pdf" class="btn btn-download">Download Resume</a>
+                    <ul class="social">
+                        <li><a href="https://github.com/xiaoxizheng"><i class="ion-social-github" style="font-size: 20px"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/xiaoxizheng/"><i class="ion-social-linkedin" style="font-size: 20px"></i></a></li>
+                        <li><a href="https://www.instagram.com/shoushxiao/"><i class="ion-social-instagram" style="font-size: 20px"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="menu-blocks">
+                <div class="about-block menu-block">
+                    <div class="about-block-container">
+                        <h2 class="about menu-item">Resume</h2>
+                    </div>
+                </div>
+                <div class="portfolio-block  menu-block">
+                    <div class="portfolio-block-container">
+                        <h2 class="portfolio menu-item">Portfolio</h2>
+                    </div>
+                </div>
+                <!-- <div class="blog-block  menu-block">
+                    <div class="blog-block-container">
+                        <h2 class="blog menu-item">Blog</h2>
+                    </div>
+                </div> -->
+                <div class="contact-block  menu-block">
+                    <div class="contact-block-container">
+                        <h2 class="contact menu-item">Contact</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="content-blocks about">
+                <section class="content" id="about">
+                    <div class="block-content">
+                        <h3 class="block-title">Profile</h3>
+                        <h3 class="subheading">I'm an end to end <strong>UX Designer</strong> based in San Francisco Bay area. I love translating complex problems into intuitive experiences for everyday humans.</h3>
+                        <p>I thrive in collaborative and fast-paced environments, enjoy bringing different disciplines together in order to craft scalable solutions. I've worked with project teams to create anything from industrial enterprise IoT applications, to mortgage application services. I am consistently thinking about how to <strong>consciously </strong>design in the age of Artificial Intelligence, and continously exploring new technological mediums to deliver the best products for every day humans.</p>
+                        <div class="info-list row">
+                            <div class="col-sm-6"><span>Name : </span> Xiaoxi Zheng</div>
+                            <!-- <div class="col-sm-6"><span>Date of birth : </span> September 9, 1982 </div>
+                            <div class="col-sm-6"><span>Address : </span> 1234 House, Large Street, Small Road, Nice City, Poor County.</div> -->
+                            <div class="col-sm-6"><span>Email : </span> xzheng1995@gmail.com</div>
+                            <!-- <div class="col-sm-6"><span>Phone : </span> + 123 456 789 456</div>
+                            <div class="col-sm-6"><span>Skype : </span> James.Bond</div> -->
+                            <div class="col-sm-6"><span>Interest : </span> full-time, freelance</div>
+                        </div>
+                        <!-- <img class="sign" src="images/xzheng_signature.JPG" alt="XZheng Signature" /> -->
+                    </div>
 
-<nav class="mainmenu">
-	<div class="container">
-		<div class="dropdown">
-			<button type="button" class="navbar-toggle" data-toggle="dropdown"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <div class="block-content">
+                        <h3 class="block-title">Experience</h3>
+                        <div class="timeline experience">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="exp-holder">
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>UX Interaction Designer</span> @ <a href="https://www.bhge.com/products-services/digital">GE Oil & Gas</a> </h4>
+                                                <h5>July 2017 - <span class="current">Present</span></h5>
+                                            </div>
+                                            <p>• Create end-to-end designs by defining user models, storyboards, IA, wireframes, mockups, and prototypes</p>
+                                            <p>• Continuously evaluate the usability of current product offerings and propose constructive feature updates</p>
+                                            <p>• Build scalable web-based prototypes and demos to validate feature proposals, usability, and workflows</p>
 
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>Lead UX Designer</span> @ Ivy Direct </h4>
+                                                <h5>June 2018 - Present</h5>
+                                            </div>
+                                            <p>• Lead design vision for Ivy Direct's new Mortgage Application system by validating ideas, features and workflows</p>
+                                            <p>• Responsible for research, information architecture, information design, UI, UX and visual design for consumer facing mortgage application system(borrower persona) as well as an internal mortgage processing system targeting credit analyst person.</p>
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>Undergraduate Researcher</span> @ <a href="https://cise.ufl.edu/research/learndialogue/">LearnDialogue - U of Florida </a></h4>
+                                                <h5>August 2016 - May 2017</h5>
+                                            </div>
+                                            <p>• Designed and developed an easy-to-use block-based programming activity with Google’s Blockly to enhance conceptual computer science learning in middle school classrooms.</p>
+                                            <p>• Piloted an empirical research study and <a href="https://cise.ufl.edu/research/learndialogue/pdf/LearnDialogue-Buffum-SIGCSE-2018.pdf">published opportunities</a> to make computer science concepts more accessible in the context of science in the proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE)</p>
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>Team Lead</span> @ Moss Construction via <a href="http://www.ippd.ufl.edu/">UF IPPD</a></h4>
+                                                <h5>August 2016 - May 2017</h5>
+                                            </div>
+                                            <p>• Lead a multidisciplinary design engineering team of 6 to develop an end to end IoT (Internet of Thing) system. </p>
+                                            <p>• Managed project from ideation, research, IA, visual design to software requirement specifications and quality assurance.</a></p>
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>Mobile Apps Services Intern</span> @ <a href="http://www.atmosphereapps.com/">Atmosphere Apps </a></h4>
+                                                <h5>May 2015 - Jan 2017</h5>
+                                            </div>
+                                            <p>• Created initial mobile app designs for both iOS and Android based on client proposals across the medical and educational industry, balancing end-user and business needs through effective communication and iteration </p>
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4><span>Software Engineering Intern</span> @ <a href="http://www.voalte.com/">Voalte </a></h4>
+                                                <h5>May 2015 - Jan 2017</h5>
+                                            </div>
+                                            <p>• Implemented UI enhancement and performed bug fixes (with Objective-C) on Voalte’s healthcare applications, improving user engagement and client satisfaction</p>
+                                            <p>• Evaluated Voalte Platform’s UI/UX and presented findings to engineering and product management, leading to standardized and streamlined product development cycle</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="block-content">
+                        <h3 class="block-title">Education</h3>
+                        <div class="timeline education">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="exp-holder">
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4>BS in Digital Arts & Sciences | <span>University of Florida</span></h4>
+                                                <h5>July 2013 - May 2017</h5>
+                                            </div>
+                                            <p>The Digital Arts and Sciences (DAS) degree is a specialized program which integrates engineering and design: a core computer science curriculum with special emphasis on human-centered computing. This consists of computer science, art, and design courses that are related but not limited to digital media, interaction, and communication.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="block-content">
+                        <h3 class="block-title">Skills</h3>
+                        <label class="progress-bar-label">Wordpress - <span>5 years experience</span></label>
+                        <div class="progress">
+                            <div style="width: 85%;" class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                <span>85%</span>
+                            </div>
+                        </div>
+                        <label class="progress-bar-label">Photoshop - <span>7 years experience</span></label>
+                        <div class="progress">
+                            <div style="width: 69%;" class="progress-bar" role="progressbar" aria-valuenow="69" aria-valuemin="0" aria-valuemax="100">
+                                <span>69%</span>
+                            </div>
+                        </div>
+                        <label class="progress-bar-label">HTML&amp;CSS - <span>7 years experience</span></label>
+                        <div class="progress">
+                            <div style="width: 99%;" class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100">
+                                <span>95%</span>
+                            </div>
+                        </div>
+                        <label class="progress-bar-label">Javascript - <span>3 years experience</span></label>
+                        <div class="progress">
+                            <div style="width: 67%;" class="progress-bar" role="progressbar" aria-valuenow="67" aria-valuemin="0" aria-valuemax="100">
+                                <span>67%</span>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- <div class="block-content">
+                        <h3 class="block-title">Services</h3>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-laptop"></i>
+                                </div>
+                                <h4>Web Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-pie-graph"></i>
+                                </div>
+                                <h4>App Development</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-paintbucket"></i>
+                                </div>
+                                <h4>Graphic Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-printer"></i>
+                                </div>
+                                <h4>Print Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-qr-scanner"></i>
+                                </div>
+                                <h4>Graphic Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 service">
+                                <div class="service-icon">
+                                    <i class="ion-social-buffer"></i>
+                                </div>
+                                <h4>Print Design</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- <div class="block-content">
+                        <h3 class="block-title">Awards</h3>
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6 awards">
+                                <img src="images/awards/1.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 col-sm-6 awards">
+                                <img src="images/awards/2.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 col-sm-6 awards">
+                                <img src="images/awards/3.jpg" alt="" />
+                            </div>
+                            <div class="col-md-3 col-sm-6 awards">
+                                <img src="images/awards/4.jpg" alt="" />
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- <div class="block-content">
+                        <h3 class="block-title">Testimonials</h3>
+                        <div class="row">
+                            <div id="liontestimonial" class="owl-carousel owl-theme">
+                                <div class="item testimonials">
+                                    <img src="images/testimonials/1.jpg" alt="">
+                                    <blockquote>This template is exactly what we were looking for!
+                                        <p class="quote"><span>Brendon Rodgers</span> - CEO of xyz.com</p>
+                                    </blockquote>
+                                </div>
+                                <div class="item testimonials">
+                                    <img src="images/testimonials/2.jpg" alt="">
+                                    <blockquote>This template is very nice! Great work
+                                        <p class="quote"><span>Becky Allwood</span> - CEO of abc.com</p>
+                                    </blockquote>
+                                </div>
+                                <div class="item testimonials">
+                                    <img src="images/testimonials/3.jpg" alt="">
+                                    <blockquote>My work has been significantly simplified.
+                                        <p class="quote"><span>Elly Page</span> - CEO of nfl.com</p>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    <div class="row text-center">
+                        <div class="col-md-12 btn-email">
+                            <a href="mailto:xzheng1995@gmails.com" class="btn lowercase">xzheng1995@gmail.com</a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="content-blocks portfolio">
+                <section class="content">
+                    <div class="block-content">
+                        <h3 class="block-title">Portfolio</h3>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="filters">
+                                    <span>Filters :</span>
+                                    <ul id="filters">
+                                        <li class="active" data-filter="*">All</li>
+                                        <li data-filter=".uiux">UI/UX</li>
+                                        <li data-filter=".tech_art">Tech Art</li>
+                                        <li data-filter=".photos">Photography</li>
+                                    </ul>
+                                </div>
+                                <div class="portfolio-container row isotope" id="portfolio-container">
+                                    <!-- WORK 1 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item uiux">
+                                        <a class="open-project" href="project-1.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>Ivy Direct</h2>
+                                                        <hr>
+                                                        <p>Mortgage Loan Application</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/imac.jpg" alt="Ivy Direct">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 1 END -->
+                                    <!-- WORK 2 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item uiux">
+                                        <a class="open-project" href="project-2.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>GE Oil & Gas</h2>
+                                                        <hr>
+                                                        <p>IntelliStream Notifications</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/IS_Notification_Dark.png" alt="IntelliStream Notification Design">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 2 END -->
+                                    <!-- WORK 3 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item uiux">
+                                        <a class="open-project" href="project-3.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>Lomie</h2>
+                                                        <hr>
+                                                        <p>Personal Finance App.</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/Lomie.jpg" alt="Lomie Personal Finance Design">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 3 END -->
+                                    <!-- WORK 4 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item tech_art">
+                                        <a class="open-project" href="project-4.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>DogTective</h2>
+                                                        <hr>
+                                                        <p>Game Development</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/dogtective.png" alt="DogTective Unity Game Design Development">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 4 END -->
+                                    <!-- WORK 5 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item uiux">
+                                        <a class="open-project" href="project-5.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>Moss Construction</h2>
+                                                        <hr>
+                                                        <p>Site Asset Tracking</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/SAT_Overview.png" alt="Site Asset Tracking System">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 5 END -->
+                                    <!-- WORK 6 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item tech_art">
+                                        <a class="open-project" href="project-6.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>Tech Art</h2>
+                                                        <hr>
+                                                        <p>Visit Github Repositories</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/tech-art.png" alt="Tech Art">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 6 END -->
+                                    <!-- WORK 7 START -->
+                                    <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item photos">
+                                        <a class="open-project" href="project-1.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>Photography</h2>
+                                                        <hr>
+                                                        <p>View details.</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/full-width/photography.jpg" alt="photography">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- WORK 7 END -->
+                                    <!-- WORK 8 START -->
+                                    <!-- <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item uiux">
+                                        <a class="open-project" href="project-2.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>IPAD</h2>
+                                                        <hr>
+                                                        <p>View details.</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/masonry/008.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </div> -->
+                                    <!-- WORK 8 END -->
+                                    <!-- WORK 9 START -->
+                                    <!-- <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item design">
+                                        <a class="open-project" href="project-1.html">
+                                            <div class="portfolio-column">
+                                                <div class="portfolio-hover">
+                                                    <div class="portfolio-content">
+                                                        <h2>PAPER MOCKUP</h2>
+                                                        <hr>
+                                                        <p>View details.</p>
+                                                    </div>
+                                                    <div class="portfolio-overlay"></div>
+                                                </div>
+                                                <img src="images/portfolio/masonry/009.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </div> -->
+                                    <!-- WORK 9 END -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row text-center">
+                        <div class="col-md-12 btn-email">
+                            <a href="mailto:xzheng1995@gmails.com" class="btn lowercase">xzheng1995@gmail.com</a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- <div class="content-blocks blog">
+                <section class="content">
+                    <div class="block-content">
+                        <h3 class="block-title">My Blog</h3>
+                        <div class="row">
+                            <div class="col-md-10 mx-auto">
+                                <div class="post">
+                                    <div class="post-thumbnail">
+                                        <a class="open-post" href="post-single.html">
+                                            <img src="images/blog/midium/4.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-title">
+                                        <a class="open-post" href="post-single.html"><h2>Typography for web</h2></a>
+                                        <p class="post-info">
+                                            <span class="post-author">Posted by John Sparrow</span>
+                                            <span class="slash"></span>
+                                            <span class="post-date">Dec 08, 2017</span>
+                                            <span class="slash"></span>
+                                            <span class="post-catetory">Food</span>
+                                        </p>
+                                    </div>
+                                    <div class="post-body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu. </p>
+                                        <a class="btn open-post" href="post-single.html">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="post">
+                                    <div class="post-thumbnail">
+                                        <a class="open-post" href="post-single.html">
+                                            <img src="images/blog/midium/3.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-title">
+                                        <a class="open-post" href="post-single.html"><h2>Typography for web</h2></a>
+                                        <p class="post-info">
+                                            <span class="post-author">Posted by John Sparrow</span>
+                                            <span class="slash"></span>
+                                            <span class="post-date">Dec 08, 2017</span>
+                                            <span class="slash"></span>
+                                            <span class="post-catetory">Food</span>
+                                        </p>
+                                    </div>
+                                    <div class="post-body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu. </p>
+                                        <a class="btn open-post" href="post-single.html">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="post">
+                                    <div class="post-thumbnail">
+                                        <a class="open-post" href="post-single.html">
+                                            <img src="images/blog/midium/2.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-title">
+                                        <a class="open-post" href="post-single.html"><h2>Typography for web</h2></a>
+                                        <p class="post-info">
+                                            <span class="post-author">Posted by John Sparrow</span>
+                                            <span class="slash"></span>
+                                            <span class="post-date">Dec 08, 2017</span>
+                                            <span class="slash"></span>
+                                            <span class="post-catetory">Food</span>
+                                        </p>
+                                    </div>
+                                    <div class="post-body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu. </p>
+                                        <a class="btn open-post" href="post-single.html">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="post">
+                                    <div class="post-thumbnail">
+                                        <a class="open-post" href="post-single.html">
+                                            <img src="images/blog/midium/1.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-title">
+                                        <a class="open-post" href="post-single.html"><h2>Typography for web</h2></a>
+                                        <p class="post-info">
+                                            <span class="post-author">Posted by John Sparrow</span>
+                                            <span class="slash"></span>
+                                            <span class="post-date">Dec 08, 2017</span>
+                                            <span class="slash"></span>
+                                            <span class="post-catetory">Food</span>
+                                        </p>
+                                    </div>
+                                    <div class="post-body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim ut enim fringilla adipiscing id in lorem. Quisque aliquet neque vitae lectus tempus consectetur. Aliquam erat volutpat. Nunc eu nibh nulla, id cursus arcu. </p>
+                                        <a class="btn open-post" href="post-single.html">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <ul class="pagination">
+                                        <li class="page-item disabled">
+                                          <a class="page-link" href="#" tabindex="-1">Previous</a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                        <li class="page-item active">
+                                          <a class="page-link" href="#">2 <span class="sr-only">(current)</span></a>
+                                        </li>
+                                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                        <li class="page-item"><a class="page-link" href="#">4</a></li>
+                                        <li class="page-item">
+                                          <a class="page-link" href="#">Next</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div> -->
+            <div class="content-blocks contact">
+                <section class="content">
+                    <div class="block-content">
+                        <h3 class="block-title">Get in touch</h3>
+                        <div class="row">
+                            <!-- <div class="col-md-6">
+                                <form id="contactForm" data-toggle="validator" class="contact-form shake">
+                                    <div class="form-group">
+                                        <input id="name" type="text" class="form-control" name="Name" autocomplete="off" required data-error="Please enter your name" placeholder="* Your Name">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <input id="email" type="email" class="form-control" name="email" autocomplete="off" required data-error="Please enter your email" placeholder="* Your Email">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea id="message" class="form-control textarea" rows="10" name="Message" required data-error="Please enter your message subject" placeholder="* Your Message"></textarea>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <button id="submit" type="submit" class="btn selected">Send Message</button>
+                                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                    </div>
+                                </form>
+                            </div> -->
 
-			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-
-				<li><a href="#head" class="active">Hello</a></li>
-				<li><a href="#about">About me</a></li>
-				<li><a href="#Portfolio">Portfolio</a><li>
-				<li><a href="#experience">Experience</a></li>
-				<li><a href="#contact">Contact me</a></li>
-			</ul>
-		</div>
-	</div>
-</nav>
-
-
-<!-- Main (Home) section -->
-<section class="section" id="head">
-	<div class="container">
-
-		<div class="row">
-			<div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">
-
-
-				<h1 class="title">Hello there,</h1>
-				<h2 class="subtitle">I'm Xiaoxi.</h2>
-
-				<h4 class="tagline">
-					I love translating complex problems into intuitive experiences
-				</h4>
-				<a href="https://docs.google.com/document/d/e/2PACX-1vSxC_JX5Fm-txeHTBEIa-933wPuidA7LfHGJDn5KUuVUEiU63Rd71kHj1nrIYIUk745h3F7otLxuU3k/pub" class="btn btn-default btn-lg">Resume</a>
-			</div>
-		</div>
-
-	</div>
-</section>
-
-<!-- Second (About) section -->
-<section class="section" id="about">
-	<div class="container">
-
-		<h2 class="text-center title">About me</h2>
-		<div class="row" "text-center">
-			<!-- <div class="col-sm-3 col-sm-offset-2 col-md-3 col-md-3-offset-2 imgContainerVertical">
-				<p>
-					<img src="assets/images/me_copy.JPG" alt="me">
-				</p>
-			</div> -->
-			<div class="col-sm-offset-4 col-sm-5 col-md-5">
-				<h5><strong>Hello,<br></strong></h5>
-				<p>My name is Xiaoxi Zheng. I am a UX Designer at <a href = "https://www.bhge.com">BHGE Digital</a>. I am an end to end experience designer passionate about translating complex problems into human-centered interactions and crafting scalable solutions across digital interfaces.
-
-
-					<br><br>
-
-					I'm an explorer by nature. Both literally and metaphorally. I am constantly exploring ideas and pushing boundaries to translate ideas to reality. On the personal side, I love to travel and enjoy meeting people from a varity of backgrounds.
-					<br><br>
-
-					I love reading anything from cognitive psychology to affective computing. Oh, occassionally I dream about opening a bar that serves Vodka and tea.
-
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- Third (Portfolio) section -->
-<section class="section" id="Portfolio">
-	<div class="container">
-
-		<h2 class="text-center title">Portfolio</h2>
-		<p class="lead text-center">
-			Some stuff I've made
-		</p>
-		<div class="row">
-			<div clss = "row">
-				<div class="col-sm-8 col-sm-offset-2">
-					<div class="thumbnail">
-						<img src="assets/images/portfolio/all.png" alt="">
-						<CENTER>
-							<div class="caption">
-								<h3>Product Designs</h3>
-								<p>Product Designs and rapid prototyping using tools like Sketch, inVision, Framer and whatever else it takes to get products off the ground and start the iteration process. </p>
-								<p><a href="./interaction.html" class="btn btn-primary" role="button" target="_blank">Visit Portfolio</a>
-							</div>
-						</CENTER>
-					</div>
-				</div>
-			</div>
-
-		<!-- <h2 class="text-center subtitle">Organization affiliated</h2> -->
-		<div class="row">
-			<div class="col-sm-4 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/atmoapps.PNG" alt="">
-					<div class="caption">
-						<h3> Website Redesign</h3>
-						<p>Redesign of <a href="http://www.atmosphereapps.com/">http://www.atmosphereapps.com </a></p>
-						<p>
-							<a href="http://www.atmosphereapps.com/" class="btn btn-primary" role="button" target="_blank">Atmosphere Apps</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/sparks.png" alt="">
-					<div class="caption">
-						<h3>Sparks Digital Magazine</h3>
-						<p>Interactive versions of <a href="http://sparks-mag.com/" target="_blank">Spark Magazine.</a> Static website using Bootstrap, HTML5 & CSS</p>
-						<p>
-							<a href="http://xiaoxizheng.github.io/sparksIssue10/" class="btn btn-primary" role="button" target="_blank">Issue10 Live</a>
-							<a href="http://xiaoxizheng.github.io/sparksIssue9/" class="btn btn-primary" role="button" target="_blank">Issue9 Live</a>
-
-					</div>
-				</div>
-			</div>
-
-		</div>
-		<div class="col-sm-8 col-sm-offset-2">
-			<div class="thumbnail">
-				<img src="assets/images/portfolio/ai.png" alt="">
-				<div class="caption">
-					<CENTER>
-						<h3>Ai.io</h3>
-						<p>An exploration of Artificial Intelligence & Transhumanism. A digital installation project.</p>
-						<p>
-							<a href="https://docs.google.com/presentation/d/1x5YmjVEOcX7ScG8wZfZPJEBp855fR3iHho3X8f6jBgo/edit#slide=id.p" class="btn btn-primary" role="button" target="_blank">Design Proposal</a>
-							<a href="https://github.com/XiaoxiZheng/Ai.io" class="btn btn-primary" role="button" target="_blank">Source Code</a>
-						</p>
-					</CENTER>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-sm-8 col-sm-offset-2">
-			<div class="thumbnail">
-				<img src="assets/images/portfolio/dogTective.png" alt="">
-				<div class="caption">
-					<CENTER>
-						<h3>DogTective</h3>
-						<p>
-							An interactive story gaming experience, developed in Unity3D
-						</p>
-						<p>
-							<a href="https://github.com/InvistiGator/DogTective" class="btn btn-primary" role="button" target="_blank">Source Code</a>
-							<a href="https://docs.google.com/document/d/10uwNVTpBVSzJJ_60DLMg_0mV9rNvnMpXwJkCX0zcagc/edit?usp=sharing" class="btn btn-primary" role="button" target="_blank">Design Doc</a>
-						</p>
-					</CENTER>
-				</div>
-			</div>
-		</div>
-
-		<div clss = "row">
-			<div class="col-sm-8 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/Github.png" alt="">
-					<CENTER>
-						<div class="caption">
-							<h3>Github Repositories</h3>
-							<p>Technical projects ranging from generative art, 3D audio implementation and other web apps that I've been a part of in the creation process.</p>
-							<p><a href="https://github.com/XiaoxiZheng" class="btn btn-primary" role="button" target="_blank">Visit Github</a>
-						</div>
-					</CENTER>
-				</div>
-			</div>
-		</div>
-
-		<!-- <div class ="row">
-			<div class="col-sm-4 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/3dAudio.jpg" alt="">
-					<div class="caption">
-						<h3>3D Audio VST Plugin</h3>
-						<p>A stand-alone JAVA audio playback program that supports 3D HRTF audio implmentation. </p>
-						<p>
-							<a href="https://github.com/VSTPlugger/3D_VST_Plugin" class="btn btn-primary" role="button" target="_blank">Source Code</a>
-
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/pky.png" alt="">
-					<div class="caption">
-						<CENTER>
-							<h3>EOC Practice Exam Portal</h3>
-							<p>A testing portal build for <a href="http://pkyonge.ufl.edu/">P.K Yonge Dev School</a> using MEAN stack & agile scrum methodology</p>
-							<p>
-								<a href="https://github.com/CEN3031-Project-9C/PK-Yonge-App" class="btn btn-primary" role="button" target="_blank">Github</a>
-								<a href="http://pky-eoc.herokuapp.com/" class="btn btn-primary" role="button" target="_blank">Live Site</a>
-						</CENTER>
-					</div>
-				</div>
-			</div> -->
-
-		<!--
-			<div class="col-sm-4">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/3dMapping.png" alt="">
-					<div class="caption">
-						<h3>3D Texture Mapping</h3>
-						<p>A group presentation on the subjct of 3D Texture Mapping. Specific techniques to render computer graphics with cheaper costs.</p>
-						<p>
-							<a href="https://github.com/NRNX/NRNX.github.io" class="btn btn-primary" role="button">Github</a>
-							<a href="http://nrnx.github.io/doc/presentationFinal.pdf" class="btn btn-primary" role="button">Presentation</a>
-					</div>
-				</div>
-
-			</div>
-		-->
-			</div>
-			<!-- end row -->
-
-		<h2 class="text-center title">Interests</h2>
-		<div class ="row">
-			<div class="col-sm-8 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/sunset_sarasota.jpg" alt="">
-
-					<CENTER>
-						<div class="caption">
-							<h3><a href="https://www.flickr.com/photos/130440528@N06/albums/72157651681289812" target="_blank"></a>Photography</h3>
-							<!-- <p>A shot of New York City from 2013</p> -->
-							<p><a href="https://www.flickr.com/photos/130440528@N06/albums/72157651681289812" class="btn btn-primary" role="button" target="_blank">Visit Flickr Profile</a></p>
-						</div>
-					</CENTER>
-				</div>
-			</div>
-			<!-- <div class = "col-sm-4">
-				<div class="thumbnail">
-					<CENTER>
-						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ex6-x6I0OMQ" frameborder="0" allowfullscreen></iframe>
-					</CENTER>
-					<div class = "caption">
-						<h3>
-							<a href="http://www.moma.org/calendar/exhibitions/1352?locale=en">
-							Rain Room Exhibition
-							</a>
-						</h3>
-						<p>A video I produced after visiting the Rain Room Exhibition 2013 @ MoMA NYC </p>
-					</div>
-				</div>
-			</div> -->
-
-			<!-- <div class="col-sm-4">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/sculpture.jpg" alt="">
-					<div class="caption">
-						<h3>Sculptures</h3> -->
-						<!-- <p>Sculptures & Installation arts</p> -->
-						<!-- <p><a href="https://photos.app.goo.gl/mQ4EqkihB6vosU0L2" class="btn btn-primary" role="button" target="_blank">View sample sculptures</a></p>
-					</div>
-				</div>
-			</div> -->
-		</div>
-
-	<!--
-		<div class ="row">
-			<div class="col-sm-8 col-sm-offset-2">
-				<div class="thumbnail">
-					<img src="assets/images/portfolio/3.JPG" alt="">
-					<div class="caption">
-						<h3>All Projects</h3>
-						<p>Projects are built with programming languages: Java, C++, HTML, CSS, C# and etc.</p>
-						<p><a href="https://github.com/XiaoxiZheng" class="btn btn-primary" role="button" target="_blank">Github Repositories</a>
-					</div>
-				</div>
-			</div>
-		</div>
--->
-			<!-- <CENTER>
-				<a href="https://github.com/XiaoxiZheng" class="btn btn-link"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a></li>
-			</CENTER> -->
-	</div>
-</section>
-
-<section class="section" id="experience">
-	<div class="container">
-
-		<div class="row">
-			<div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 text-center">
-
-				<h2 class="text-center title">Expereince</h2>
-                    <div class="col-lg-8 col-lg-offset-2">
-                    <p>
-                    UX Interaction Designer<br>
-                    <a href="http://bhge.com/" class="btn btn-default btn-lg" target="_blank">Baker Hughes, a GE company</a><br>
-                    Undergraduate Researcher<br>
-                    <a href="https://www.cise.ufl.edu/research/learndialogue/" class="btn btn-default btn-lg" target="_blank">LearnDialogue</a><br>
-                    IOS Engineering Intern<br>
-                    <a href="http://www.voalte.com/" class="btn btn-default btn-lg" target="_blank">Voalte</a><br>
-                    Mobile App Services Intern<br>
-                    <a href="http://atmosphereapps.com/" class="btn btn-default btn-lg" target="_blank">Atmosphere Apps</a><br>
-                	</p>
-                <!--
-                    <hr>
-
-                    Marketing Manager<br>
-                    <a href="https://www.facebook.com/KungFuTeaGainesville" class="btn btn-default btn-lg" target="_blank">Kung Fu Tea-Gainesville</a><br>
-                    Promotion Director<br>
-                    <a href="http://www.sparks-mag.com/" class="btn btn-default btn-lg" target="_blank">Sparks Magazines</a><br>
-					<p>
-				-->
-			</div>
-		</div>
-
-	</div>
-</section>
-
-<!-- Fourth (Contact) section -->
-<section class="section" id="contact">
-	<div class="container">
-
-		<h2 class="text-center title">Get in touch</h2>
-
-		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2 text-center">
-				<center><div class = "imgContainer">
-					<img src="assets/images/xiaoxi.jpg" alt="Xiaoxi at Death Valley">
-				</div></center>
-				<br/>
-
-				<!-- <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="xiaoxizheng"><a class="LI-simple-link" href='https://www.linkedin.com/in/xiaoxizheng?trk=profile-badge'>Xiaoxi Zheng</a></div> -->
-
-				<p class="lead">Inspire me, let's be friends :)</p>
-				<p>Feel free to ping me and say hi</p>
-				<p><b>shoush0713@gmail.com</b><br><br></p>
-				<ul class="list-inline list-social">
-					<li><a href="https://www.linkedin.com/pub/xiaoxi-zheng/84/450/804"class="btn btn-link"><i class="fa fa-linkedin-square"></i><span class="network-name">LinkedIn</span></a></li>
-					<li><a href="http://weibo.com/shoush" class="btn btn-link"><i class="fa fa-weibo"></i></i> <span class="network-name">Weibo</span></a></li>
-          <li><a href="https://github.com/XiaoxiZheng" class="btn btn-link"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a></li>
-
-				</ul>
-			</div>
-		</div>
-
-	</div>
-</section>
-
-
-<!-- Load js libs only when the page is loaded. -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-<script src="assets/js/modernizr.custom.72241.js"></script>
-<!-- Custom template scripts -->
-<script src="assets/js/menu.js"></script>
-
-<!------------  -->
-	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	<script type="text/javascript" src="assets/js/bootstrap-select.js"></script>
-	<script type="text/javascript" src="https://code.angularjs.org/1.4.3/angular.js"></script>
-	<script type="text/javascript" src="assets/js/script.js"></script>
-	<script type="text/javascript" src="assets/js/select.js"></script>
-
-
-
+                            <div class="col-lg-12 col-lg-offset-6 text-center">
+                                <!-- <div class="contact-content">
+                                    <div class="contact-icon">
+                                        <i class="ion-ios-location-outline"></i>
+                                    </div>
+                                    <div class="contact-details">
+                                        <h5>Address</h5>
+                                        <p>234 House, Baker Street, London, EL10 6 BG</p>
+                                    </div>
+                                </div> -->
+                                <!-- <div class="contact-content">
+                                    <div class="contact-icon">
+                                        <i class="ion-ios-telephone-outline"></i>
+                                    </div>
+                                    <div class="contact-details">
+                                        <h5>Call Us</h5>
+                                        <p> <a href="tel:+4402920111222">+44 - 02920111222</a></p>
+                                    </div>
+                                </div> -->
+                                <!-- <div class="col-md-12  offset-md-6"> -->
+                                  <h5>Inspire me, let's grab coffee.</h5>
+                                  <p><a href="mailto:xzheng1995@gmails.com">xzheng1995@gmails.com</a></p>
+                                  <img src="images/me_hike.jpg" alt="Xiaoxi Hiking Picture in Marin Smile">
+                                  <div class="row text-center">
+                                      <div class="col-md-12 btn-email">
+                                          <a href="mailto:xzheng1995@gmails.com" class="btn lowercase">xzheng1995@gmail.com</a>
+                                      </div>
+                                  </div>
+                                  <!-- <div class="col-lg-12 col-lg-offset-6 contact-icon"> -->
+                                      <!-- <i class="ion-ios-email-outline"></i> -->
+                                  <!-- </div> -->
+                                  <!-- <p><a href="mailto:xzheng1995@gmails.com">xzheng1995@gmails.com</a></p> -->
+                                <!-- </div> -->
+                            </div>
+                            <!-- <div class="col-md-12"> -->
+                                <!--Google Map-->
+                                <!-- <div id="map"></div> -->
+                                <!--Google Map End-->
+                            <!-- </div> -->
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="content-blocks pop">
+                <div id="close-pop" class="close-pop">Close <i class="ion-ios-close-empty"></i></div>
+                <section class="content"></section>
+            </div>
+        </div>
+    </section>
+    <script src="js/plugins.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmsb2nGLuIl04bt7CWJozRMhThvGa3y1w"></script>
+    <script src="js/main.js"></script>
 </body>
+
 </html>
