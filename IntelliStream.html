@@ -1,0 +1,46 @@
+<div class="block-content">
+    <div class="project-head">
+        <h1 class="block-title">IntelliStream Oil & Gas Enterprise Application</h1>
+        <div class="tags"><span>Categories : </span> UI/UX, Product Design, Design System Enhancement, B2B Enterprise Suite</div>
+        <div class="tags"><span>Company : </span> <a href="https://www.bhge.com/"> Baker Hughes, a GE Company</a></div>
+        <div class="tags"><span>Completion : </span> Ongoing</div>
+        <div class="tags"><span>Role : </span> UX Interaction Designer</div>
+    </div>
+    <p class="project-description">
+      <a href = "https://www.bhge.com/products-services/digital">IntelliStream™ </a> is an enterprise oil and gas production optimization solution, utilizing Artificial Intelligence (AI) at the core of decision making. We turn data from your assets, reservoir, operations, maintenance and people into actionable insights to help our customers deliver a step change in upstream productivity. IntelliStream™ enables truly predictive capabilities, delivering increases in oil and gas recovery and addressing non-productive, unplanned downtime and associated costs.
+    </p>
+    <div class="project-media">
+       <img src="images/portfolio/full-width/IS_Notification_Dark.png" alt="IntelliStream Notification Design">
+    </div>
+    <div class="project-nav text-center">
+        <span class="float-left">
+            <a class="open-project" href="project-ivydirect.html">&leftarrow; Previous Project</a>
+        </span>
+        <span class="">
+            <a id="close-project" href="#"><i class="ion-grid"></i></a>
+        </span>
+        <span class="float-right">
+            <a class="open-project" href="Lomie.html">Next Project &rightarrow; </a>
+        </span>
+    </div>
+</div>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">xzheng1995@gmail.com</a>
+    </div>
+</div>
+
+<script>
+    $('.open-project').on('click', function() {
+        var projectUrl = $(this).attr("href");
+        $('.inline-menu-container').removeClass('showx');
+        $('.content-blocks.pop').addClass('showx');
+        $('.content-blocks.pop section').load(projectUrl)
+        return false;
+    });
+    $('#close-project').on('click', function() {
+        $('.content-blocks.pop').removeClass('showx');
+        $('.inline-menu-container').addClass('showx');
+        $('.content-blocks.pop section').empty();
+    });
+</script>
