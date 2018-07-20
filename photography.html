@@ -1,0 +1,70 @@
+<div class="block-content">
+    <div class="project-head">
+        <h1 class="block-title">Photography - Gallery</h1>
+        <div class="tags"><span>Category : </span> Photography</div>
+        <div class="tags"><span>Gallery : </span><a href="https://flic.kr/s/aHsk9NNJNQ"> Flickr</a></div>
+        <!-- <div class="tags"><span>Completion : </span> February 2017</div>
+        <div class="tags"><span>Role : </span> Art Direction</div> -->
+    </div>
+    <p class="project-description">
+      Quick capture of the world through the lens of photography. For more, visit <a href="https://flic.kr/s/aHsk9NNJNQ">Flickr album</a>
+    </p>
+
+    <div class="project-media row">
+        <div class="col-md-4">
+            <img src="images/photography/sarasota_couple_sunset.jpg" alt="Central Park NYC - New York Eve" />
+            <img src="images/photography/water_child.jpg" alt="Central Park NYC - New York Eve" />
+            <!-- <img src="images/photography/nyc_cityview_top_of_rock.JPG" alt="Central Park NYC - New York Eve" /> -->
+        </div>
+        <div class="col-md-8">
+            <img src="images/photography/central_park_nye.jpg" alt="New York City View Top of the Rock" />
+            <img src="images/photography/forbidden_city_Beijing.jpg" alt="Forbidden City Beijing" />
+            <!-- <img src="images/photography/sunset_sarasota_fishing.jpg" alt="New York City View Top of the Rock" /> -->
+
+        </div>
+    </div>
+    <div class="project-media row">
+        <div class="col-md-6">
+            <img src="images/photography/rainroom_nyc.jpg" alt="Central Park NYC - New York Eve" />
+            <img src="images/photography/sunset_sarasota_fishing.jpg" alt="New York City View Top of the Rock" />
+            <img src="images/photography/sarasota_fourth_of_july.jpg" alt="Central Park NYC - New York Eve" />
+        </div>
+        <div class="col-md-6">
+            <img src="images/photography/couple_forest_gainesville.jpg" alt="New York City View Top of the Rock" />
+            <img src="images/photography/nyc_cityview_top_of_rock.JPG" alt="Central Park NYC - New York Eve" />
+            <img src="images/photography/sarasota_water_firework_couple.jpg" alt="Central Park NYC - New York Eve" />
+        </div>
+    </div>
+
+    <div class="project-nav text-center">
+        <span class="float-left">
+            <a class="open-project" href="Lomie.html">&leftarrow; Previous Project</a>
+        </span>
+        <span class="">
+            <a id="close-project" href="#"><i class="ion-grid"></i></a>
+        </span>
+        <span class="float-right">
+            <a class="open-project" href="Dogtective.html">Next Project &rightarrow; </a>
+        </span>
+    </div>
+</div>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">xzheng1995@gmail.com</a>
+    </div>
+</div>
+
+<script>
+    $('.open-project').on('click', function() {
+        var projectUrl = $(this).attr("href");
+        $('.inline-menu-container').removeClass('showx');
+        $('.content-blocks.pop').addClass('showx');
+        $('.content-blocks.pop section').load(projectUrl)
+        return false;
+    });
+    $('#close-project').on('click', function() {
+        $('.content-blocks.pop').removeClass('showx');
+        $('.inline-menu-container').addClass('showx');
+        $('.content-blocks.pop section').empty();
+    });
+</script>

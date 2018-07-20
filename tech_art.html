@@ -1,0 +1,65 @@
+<div class="block-content">
+    <div class="project-head">
+        <h1 class="block-title">Tech Art - Gallery</h1>
+        <div class="tags"><span>Category : </span> Tech Art</div>
+        <div class="tags"><span>Gallery : </span><a href="https://github.com/XiaoxiZheng"> Github</a></div>
+        <!-- <div class="tags"><span>Completion : </span> February 2017</div>
+        <div class="tags"><span>Role : </span> Art Direction</div> -->
+    </div>
+    <p class="project-description">
+      A collection of technical implmentation of generative art, technical installation project, and other web applications. For more, visit <a href="https://github.com/XiaoxiZheng">Github repositories</a>
+    </p>
+
+    <div class="project-media row">
+        <div class="col-md-4">
+            <img src="images/portfolio/full-width/tech_arts/julia.png" alt="Julia Set" />
+            <img src="images/portfolio/full-width/tech_arts/julia2.png" alt="Julia Set 2" />
+            <img src="images/portfolio/full-width/tech_arts/julia3.png" alt="Julia Set 3" />
+            <img src="images/portfolio/full-width/tech_arts/IFS_Fern.png" alt="IFS Fern" />
+            <img src="images/portfolio/full-width/tech_arts/IFS_Crystal.png" alt="IFS Crystal" />
+        </div>
+        <div class="col-md-8">
+            <img src="images/portfolio/full-width/tech_arts/ai.png" alt="Ai.io" />
+            <img src="images/portfolio/full-width/tech_arts/sparks.png" alt="Sparks Magazine" />
+            <img src="images/portfolio/full-width/tech_arts/Engage_Blockly.png" alt="Engage Blockly" />
+            <img src="images/portfolio/full-width/tech_arts/pky.png" alt="Test Portal Web App" />
+        </div>
+    </div>
+    <!-- <div class="project-media row">
+        <div class="col-md-12">
+            <img src="images/portfolio/full-width/tech_arts/ai.png" alt="Ai.io" />
+        </div>
+    </div> -->
+
+    <div class="project-nav text-center">
+        <span class="float-left">
+            <a class="open-project" href="DogTective.html">&leftarrow; Previous Project</a>
+        </span>
+        <span class="">
+            <a id="close-project" href="#"><i class="ion-grid"></i></a>
+        </span>
+        <span class="float-right">
+            <a class="open-project" href="project-ivydirect.html">Next Project &rightarrow; </a>
+        </span>
+    </div>
+</div>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">xzheng1995@gmail.com</a>
+    </div>
+</div>
+
+<script>
+    $('.open-project').on('click', function() {
+        var projectUrl = $(this).attr("href");
+        $('.inline-menu-container').removeClass('showx');
+        $('.content-blocks.pop').addClass('showx');
+        $('.content-blocks.pop section').load(projectUrl)
+        return false;
+    });
+    $('#close-project').on('click', function() {
+        $('.content-blocks.pop').removeClass('showx');
+        $('.inline-menu-container').addClass('showx');
+        $('.content-blocks.pop section').empty();
+    });
+</script>
