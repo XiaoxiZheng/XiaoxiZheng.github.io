@@ -67,8 +67,8 @@
 
 	// Typing Animation (Typed.js)
 	$('#element').typed({
-	    strings: ["UX, UI Designer", "Design Technologist", "Foodie", "Explorer "],
-	    typeSpeed: 0,
+	    strings: ["UX, UI Designer", "Design Technologist"],
+	    typeSpeed: 1,
 	    loop: true,
 	    startDelay: 500,
 	    backDelay: 3000,

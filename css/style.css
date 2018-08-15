@@ -1506,7 +1506,8 @@ h4.package {
 }
 
 .portfolio-column:hover img {
-    transform: scale(1.1);
+    transform: scale(1.05);
+    /* transition: all 0.3s; */
 }
 
 .portfolio-column:hover .portfolio-content {
