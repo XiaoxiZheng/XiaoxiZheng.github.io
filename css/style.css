@@ -2188,13 +2188,14 @@ h4.package {
     .name-block.reverse {
         width: 400px;
         left: 300px;
+        padding:0 30px;
     }
     .content-blocks,
     .content-blocks.pop.showx,
     .inline-menu-container,
     .close-pop {
         width: 70%;
-        left: 30%;
+        left: auto;
         right: 0;
     }
 }
