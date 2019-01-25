@@ -2182,13 +2182,15 @@ h4.package {
         -ms-transform: rotate(-34deg);
         -webkit-transform: rotate(-34deg);
         transform: rotate(-34deg);
-        left: 1092px;
-        top: 518px;
+        left: 1120px;
+        top: 510px;
     }
     .name-block.reverse {
-        width: 400px;
-        left: 300px;
-        padding:0 30px;
+        width: 30%;
+        left: 10%;
+        top: 0;
+        /* display: table; */
+        /* padding:0 30px; */
     }
     .content-blocks,
     .content-blocks.pop.showx,
