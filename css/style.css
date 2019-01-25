@@ -2194,7 +2194,7 @@ h4.package {
     .inline-menu-container,
     .close-pop {
         width: 70%;
-        left: auto;
+        left: 30%;
         right: 0;
     }
 }
