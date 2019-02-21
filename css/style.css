@@ -2202,7 +2202,7 @@ h4.package {
     .content-blocks.pop.showx,
     .inline-menu-container,
     .close-pop {
-        width: 60%;
+        width: 50%;
         left: auto;
         right: 0;
     }
