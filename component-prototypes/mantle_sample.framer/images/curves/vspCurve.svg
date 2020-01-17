@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="356px" height="230px" viewBox="0 0 356 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>variable speed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="optimization" transform="translate(-55.000000, -331.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(0.000000, 100.000000)">
+                    <g id="sandbox" transform="translate(0.000000, 125.000000)">
+                        <g id="charts" transform="translate(55.000000, 75.000000)">
+                            <g id="variable-speed" transform="translate(0.000000, 30.000000)">
+                                <g id="grid" transform="translate(25.000000, 28.000000)" stroke="#0D1A21" stroke-linecap="square">
+                                    <polyline id="Line" points="-2.69903155e-14 2 -2.84217094e-14 182 330.05698 182"></polyline>
+                                </g>
+                                <g id="title-labels" fill="#0D1A21" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">
+                                    <text id="HEAD-(ft)" transform="translate(7.799998, 120.000000) rotate(-90.000000) translate(-7.799998, -120.000000) " font-size="12">
+                                        <tspan x="-15.4860024" y="121.799998">HEAD (ft)</tspan>
+                                    </text>
+                                    <text id="FLOW-RATE-(rb/d)" font-size="12">
+                                        <tspan x="155.486" y="229">FLOW RATE (rb/d)</tspan>
+                                    </text>
+                                    <text id="VARIABLE-SPEED-PERFO" font-size="15">
+                                        <tspan x="0" y="12">VARIABLE SPEED PERFORMANCE CURVE</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+[
+	{
+		"Title": "Virtual Flow Meter via Network Model",
+		"Description": "Uncertainty quantification on a Process Digital Twin.",
+		"Link": "http://sc.ge.com/*demo-flow"
+	},
+	{
+		"Title": "PCM Ionic Models",
+		"Description": "PCM Digital Twin + Ionic Model for Refinery Corrosion Risk Monitoring.",
+		"Link": "http://sc.ge.com/*demo-ionic"
+	},
+	{
+		"Title": "ROP Optimization",
+		"Description": "Rate of Penetration Optimization",
+		"Link": "http://sc.ge.com/*demo-rop"
+	},
+	{
+		"Title": "Furnace Creep",
+		"Description": "Creep damage and wall thinning prediction for furnace boiler tubes.",
+		"Link": "https://furnacecreep.demo.bhge.ai/"
+	},
+	{
+		"Title": "Multiwell Optimization",
+		"Description": "Tune oil production through optimization of multiple wells.",
+		"Link": "http://sc.ge.com/*demo-multiwell"
+	},
+	{
+		"Title": "Predictive Corrosion Management",
+		"Description": "Use hybrid physics corrosion models to forecast degradation of pipelines.",
+		"Link": "https://pcm.demo.bhge.ai/"
+	},
+	{
+		"Title": "KBC PetroSIM Network Visualization",
+		"Description": "Visualizing Process Connectivity from a PetroSIM model.",
+		"Link": "http://sc.ge.com/*kbcvis"
+	},
+	{
+		"Title": "HX Fouling & Furnace Power Predictive Analytic",
+		"Description": "Orchestrating process nets and probabilistic methods for Process Analytics.",
+		"Link": "http://sc.ge.com/*hxfoulingmicroapp"
+	},
+	{
+		"Title": "Centrifugal Compressor Performance MicroApp",
+		"Description": "Monitoring compressor performance with Physics Based Modeling.",
+		"Link": "http://sc.ge.com/*ccapp"
+	}
+]

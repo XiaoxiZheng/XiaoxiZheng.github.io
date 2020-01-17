@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="29px" viewBox="0 0 27 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.5,29.9 L11.5,29.9 C11.2,29.9 11,30.1 11,30.4 L11,35.4 C11,35.8 11.2,36 11.5,36 L15.5,36 C15.8,36 16,35.8 16,35.5 L16,30.5 C16,30.2 15.8,29.9 15.5,29.9 Z M15,35 L12,35 L12,31 L15,31 L15,35 Z M29.5,26.9 L25.5,26.9 C25.2,26.9 25,27.1 25,27.4 L25,35.5 C25,35.8 25.2,36 25.5,36 L29.5,36 C29.8,36 30,35.8 30,35.5 L30,27.4 C30,27.1 29.8,26.9 29.5,26.9 Z M29,35 L26,35 L26,27.9 L29,27.9 L29,35 Z M22.5,22.9 L18.5,22.9 C18.2,22.9 18,23.1 18,23.4 L18,35.5 C18,35.8 18.2,36 18.5,36 L22.5,36 C22.8,36 23,35.8 23,35.5 L23,23.4 C23,23.1 22.8,22.9 22.5,22.9 Z M22,35 L19,35 L19,23.9 L22,23.9 L22,35 Z M36.5,16.9 L32.5,16.9 C32.2,16.9 32,17.1 32,17.4 L32,35.5 C32,35.8 32.2,36 32.5,36 L36.5,36 C36.8,36 37,35.8 37,35.5 L37,17.4 C37,17.1 36.8,16.9 36.5,16.9 Z M36,35 L33,35 L33,17.9 L36,17.9 L36,35 Z M35.9,7.5 C32,14.4 27.9,20.3 20.6,16.5 C18.8,15.6 17.2,15.4 15.8,16.1 C13.6,17.2 12,20.4 11,25.5 L10,25.3 C11.1,19.7 12.9,16.4 15.4,15.2 C17,14.4 18.9,14.5 21,15.6 C27.6,18.9 31.1,13.9 35,7 L35.9,7.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/32/px-fea:analytics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-10.000000, -7.000000)">
+        <g id="px-fea:analysis">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#4C6472" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

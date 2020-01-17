@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="230px" viewBox="0 0 355 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ipr </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="optimization" transform="translate(-861.000000, -331.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(0.000000, 100.000000)">
+                    <g id="sandbox" transform="translate(0.000000, 125.000000)">
+                        <g id="charts" transform="translate(55.000000, 105.000000)">
+                            <g id="ipr-" transform="translate(805.000000, 0.000000)">
+                                <g id="grid-copy-2" transform="translate(25.930851, 29.000000)" stroke="#0D1A21" stroke-linecap="square">
+                                    <polyline id="Line-Copy-2" points="-4.8174172e-13 1 -4.8316906e-13 181 329.12234 181"></polyline>
+                                </g>
+                                <g id="TITLE-LABELS" fill="#0D1A21" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">
+                                    <text id="FLOW-PRESSURE-(psig)" transform="translate(9.799998, 120.000000) rotate(-90.000000) translate(-9.799998, -120.000000) " font-size="12">
+                                        <tspan x="-48.0580024" y="121.799998">FLOW PRESSURE (psig)</tspan>
+                                    </text>
+                                    <text id="IPR-CURVE" font-size="15">
+                                        <tspan x="0" y="12">IPR CURVE</tspan>
+                                    </text>
+                                    <text id="FLOW-RATE-(stb/d)" font-size="12">
+                                        <tspan x="153.275426" y="229">FLOW RATE (stb/d)</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

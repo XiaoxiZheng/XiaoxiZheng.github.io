@@ -1,0 +1,66 @@
+[
+	{
+		"notificationName": "Edison Well 1A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 2A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 3A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 4A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 2F",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 2G",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Edison 2H",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 2F",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 2G",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 3F",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 3H",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 3I",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 4A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 4B",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 5A",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"notificationName": "Midland 6B",
+		"notificationContent": "ESP, Total Liquid, Oil Production, BBL/Day"
+	}
+]

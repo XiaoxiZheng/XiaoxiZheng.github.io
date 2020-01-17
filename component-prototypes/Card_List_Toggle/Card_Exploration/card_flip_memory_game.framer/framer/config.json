@@ -1,0 +1,22 @@
+{
+  "updateDelay" : -1,
+  "designModeSelected" : 0,
+  "delay" : 0.3,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "custom",
+  "sharedPrototype" : 1,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "8ED50204-5BB9-49FF-8BA3-AEB7EA617922",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
+  "device" : "iPhone 5S Space Gray",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : -1
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="15px" viewBox="0 0 9 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron_16x16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.3537192,9.71333762 L-1.98666846,3.37294997 L-2.85781926,4.24410077 L3.9181438,11.0200638 C4.15870545,11.2606255 4.54873295,11.2606255 4.7892946,11.0200638 L11.5652577,4.24410077 L10.6941069,3.37294997 L4.3537192,9.71333762 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Light-Appliations---Card-View-Final" transform="translate(-1367.000000, -224.000000)">
+            <g id="_visual-design" transform="translate(76.000000, 140.000000)">
+                <g id="card-view" transform="translate(6.000000, 30.000000)">
+                    <g id="base-card" transform="translate(0.000000, 15.000000)">
+                        <g id="arrows" transform="translate(1235.000000, 39.000000)">
+                            <g id="chevron_16x16" transform="translate(54.326923, 7.500000) rotate(180.000000) translate(-54.326923, -7.500000) translate(50.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" transform="translate(4.353719, 7.286718) rotate(90.000000) translate(-4.353719, -7.286718) " xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

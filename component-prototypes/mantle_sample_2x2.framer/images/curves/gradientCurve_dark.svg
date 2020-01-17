@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="356px" height="232px" viewBox="0 0 356 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>gradient</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-(detail-modal)" transform="translate(-460.000000, -330.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(30.000000, 100.000000)">
+                    <g id="sandbox" transform="translate(25.000000, 125.000000)">
+                        <g id="charts" transform="translate(0.000000, 75.000000)">
+                            <g id="gradient" transform="translate(405.000000, 21.000000)">
+                                <polyline id="Line-Copy" stroke="#FFFFFF" stroke-linecap="square" points="26 39 26 219 356 219"></polyline>
+                                <text id="TRUE-VERTICAL-DEPTH" transform="translate(8.200002, 129.000000) rotate(-90.000000) translate(-8.200002, -129.000000) " font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="-57.9859976" y="130.799998">TRUE VERTICAL DEPTH (ft)</tspan>
+                                </text>
+                                <text id="PRESSURE-(psig)" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="159.75" y="238">PRESSURE (psig)</tspan>
+                                </text>
+                                <text id="GRADIENT-CURVE" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="16" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="0" y="21">GRADIENT CURVE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

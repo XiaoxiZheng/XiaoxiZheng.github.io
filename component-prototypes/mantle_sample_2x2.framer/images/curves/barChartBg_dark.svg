@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1107px" height="343px" viewBox="0 0 1107 343" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>multi-series bar chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-(detail-modal)" transform="translate(-65.000000, -249.000000)">
+            <g id="bar-chart/group-production" transform="translate(17.000000, 65.000000)">
+                <g id="bar-chart" transform="translate(39.000000, 90.000000)">
+                    <g id="multi-series-bar-chart" transform="translate(6.666430, 82.000000)">
+                        <g id="horizontal" transform="translate(24.919014, 0.000000)">
+                            <path d="M37.066787,312.499993 L1083.13426,312.499993" id="baseline" stroke="#889AA5" stroke-linecap="square" stroke-linejoin="round"></path>
+                            <g id="lines" transform="translate(37.558274, 17.000000)" stroke="#D8E0E5">
+                                <path d="M0,0.499999988 L1046.06748,0.499999988" id="Stroke-2705"></path>
+                                <path d="M1046.06748,263.499994 L0,263.499994" id="Stroke-2720"></path>
+                                <path d="M1046.06748,230.499995 L0,230.499995" id="Stroke-2722"></path>
+                                <path d="M1046.06748,197.499995 L0,197.499995" id="Stroke-2724"></path>
+                                <path d="M1046.06748,164.499996 L0,164.499996" id="Stroke-2726"></path>
+                                <path d="M1046.06748,131.499997 L0,131.499997" id="Stroke-2728"></path>
+                                <path d="M1046.06748,99.4999977 L0,99.4999977" id="Stroke-2733"></path>
+                                <path d="M1046.06748,66.4999985 L0,66.4999985" id="Stroke-2738"></path>
+                                <path d="M1046.06748,33.4999992 L0,33.4999992" id="Stroke-2743"></path>
+                            </g>
+                            <g id="notches" transform="translate(29.211991, 17.000000)" stroke="#677E8C" stroke-linejoin="round">
+                                <path d="M8.56960386,295.999993 L3.00541516,295.999993" id="Stroke-2701" stroke-linecap="square"></path>
+                                <path d="M7.34497556,262.999994 L0,262.999994" id="Stroke-2708"></path>
+                                <path d="M7.34497556,229.999995 L0,229.999995" id="Stroke-2710" stroke-linecap="square"></path>
+                                <path d="M7.34497556,196.999995 L0,196.999995" id="Stroke-2712" stroke-linecap="square"></path>
+                                <path d="M7.34497556,163.999996 L0,163.999996" id="Stroke-2714" stroke-linecap="square"></path>
+                                <path d="M7.34497556,130.999997 L0,130.999997" id="Stroke-2716" stroke-linecap="square"></path>
+                                <path d="M7.34497556,0 L0,0" id="Stroke-2718" stroke-linecap="square"></path>
+                                <path d="M7.34497556,98.9999977 L0,98.9999977" id="Stroke-2731" stroke-linecap="square"></path>
+                                <path d="M7.34497556,65.9999985 L0,65.9999985" id="Stroke-2736" stroke-linecap="square"></path>
+                                <path d="M7.34497556,32.9999992 L0,32.9999992" id="Stroke-2741" stroke-linecap="square"></path>
+                            </g>
+                            <text id="900-800-700-600-500" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="32.7999992" fill="#FFFFFF">
+                                <tspan x="8.6689435" y="10.9999962">900</tspan>
+                                <tspan x="8.6689435" y="43.7999954">800</tspan>
+                                <tspan x="8.6689435" y="76.5999947">700</tspan>
+                                <tspan x="8.6689435" y="109.399994">600</tspan>
+                                <tspan x="8.6689435" y="142.199993">500</tspan>
+                                <tspan x="8.6689435" y="174.999992">400</tspan>
+                                <tspan x="8.6689435" y="207.799992">300</tspan>
+                                <tspan x="8.6689435" y="240.599991">200</tspan>
+                                <tspan x="8.6689435" y="273.39999">100</tspan>
+                                <tspan x="21.4369435" y="306.199989">0</tspan>
+                            </text>
+                        </g>
+                        <g id="vertical-lines" transform="translate(62.477288, 16.857542)">
+                            <path d="M0,0 L0,306.410615" id="vertical-baseline" stroke="#677E8C" stroke-linejoin="round"></path>
+                            <g id="1" transform="translate(0.000000, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Clark-A-#6" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Clark A #6 </tspan>
+                                </text>
+                            </g>
+                            <g id="2" transform="translate(100.155397, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Bishop-#14" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Bishop #14</tspan>
+                                </text>
+                            </g>
+                            <g id="3" transform="translate(204.483935, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Bishop-#10" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="3.00541516" y="11.9271115">Bishop #10</tspan>
+                                </text>
+                            </g>
+                            <g id="4" transform="translate(308.812473, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Clark-A-#5" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="3.00541516" y="11.9271115">Clark A #5</tspan>
+                                </text>
+                            </g>
+                            <g id="5" transform="translate(403.403681, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Clark-A-#4" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="3.00541516" y="11.9271115">Clark A #4</tspan>
+                                </text>
+                            </g>
+                            <g id="6" transform="translate(517.469549, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Bishop-A-#11" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Bishop A #11</tspan>
+                                </text>
+                            </g>
+                            <g id="7" transform="translate(621.798087, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Crozier-A-#1" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Crozier A #1</tspan>
+                                </text>
+                            </g>
+                            <g id="8" transform="translate(726.126625, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Bishop-A-#13" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Bishop A #13</tspan>
+                                </text>
+                            </g>
+                            <g id="9" transform="translate(830.455163, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Bishop-A-#12" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Bishop A #12</tspan>
+                                </text>
+                            </g>
+                            <g id="9" transform="translate(934.783701, 293.519553)">
+                                <path d="M0,0 L0,11.8994413" id="notch" stroke="#677E8C" stroke-linecap="square" stroke-linejoin="round"></path>
+                                <text id="Clark-A-#7" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="15" fill="#FFFFFF">
+                                    <tspan x="4.00722022" y="11.9271115">Clark A #7</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="Showing-10-of-10-wel" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="489.882671" y="351.06538">Showing 10 of 10 wells in this group</tspan>
+                        </text>
+                        <text id="Oil-Production-stb/d" transform="translate(7.802149, 135.322854) rotate(-90.000000) translate(-7.802149, -135.322854) " font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" letter-spacing="-0.588" fill="#FFFFFF">
+                            <tspan x="-54.0994504" y="139.124825">Oil Production stb/d</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

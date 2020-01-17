@@ -1,0 +1,1 @@
+exports.Highcharts = require "Highcharts"

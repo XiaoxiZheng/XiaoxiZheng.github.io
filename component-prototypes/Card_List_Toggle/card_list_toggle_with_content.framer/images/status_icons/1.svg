@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="14.9194922 0 29.8389844 25.3631368 0 25.3631368"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notification-history-(peek)" transform="translate(-275.000000, -163.000000)">
+            <g id="result-(peek)" transform="translate(250.000000, 120.000000)">
+                <g id="icons" transform="translate(25.000000, 43.000000)">
+                    <g id="/$alert-red" fill="#E53838">
+                        <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+                    </g>
+                    <g id="/Alert-Label-Shapes-Alert-1" transform="translate(5.000000, 5.000000)">
+                        <g id="Alert-Message/Status-Color/red3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="🔢Level" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                            <tspan x="11.7409102" y="20.9075779">1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

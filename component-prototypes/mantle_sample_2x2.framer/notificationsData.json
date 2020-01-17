@@ -1,0 +1,98 @@
+[
+	{
+		"assetName": "Edison Well 8A",
+		"time": "2 hours ago | 04/30/18",
+		"notificationName": "Decrease WHP to 321 psig",
+		"notificationContent": "Take action to increase production on the single well"
+	},
+	{
+		"assetName": "Walsh Well 1A",
+		"time": "1 hours ago | 04/30/18",
+		"notificationName": "No production in the last 24 hours",
+		"notificationContent": "Examine to see if any further action is needed"
+	},
+	{
+		"assetName": "Edison Well 2A",
+		"time": "5 minutes ago | 04/30/18",
+		"notificationName": "New optimization potential",
+		"notificationContent": "Take action to increase production for the muti-well group"
+	},
+	{
+		"assetName": "Pratt Well 1A",
+		"time": "14:33 | 04/14/18",
+		"notificationName": "New optimization update",
+		"notificationContent": "Group muti-well optimization is on track"
+	},
+	{
+		"assetName": "Keatings Well 3A",
+		"time": "05:45 | 04/14/18",
+		"notificationName": "Unknown system error",
+		"notificationContent": "We are having trouble connecting to your client API"
+	},
+	{
+		"assetName": "O'Connor Well 3A",
+		"time": "07:45 | 04/14/18",
+		"notificationName": "Increase frequency to 142 Hz",
+		"notificationContent": "Take action to increase production on the single well"
+	},
+	{
+		"assetName": "O'Connor Well 3A",
+		"time": "07:45 | 04/14/18",
+		"notificationName": "Request approved",
+		"notificationContent": "Your case generation request has been approved"
+	},
+	{
+		"assetName": "Baylor Well 3A",
+		"time": "09:45 | 04/14/18",
+		"notificationName": "Asset configuration update",
+		"notificationContent": "Asset network has been updated by an administrator"
+	},
+	{
+		"assetName": "O'Connor Well 7A",
+		"time": "10:45 | 04/14/18",
+		"notificationName": "System update",
+		"notificationContent": "Intellistream just updated. Take a tour for the new features now!"
+	},
+	{
+		"assetName": "Green's Route",
+		"time": "09:45 | 04/24/18",
+		"notificationName": "One or more of your wells may be offline",
+		"notificationContent": "We are having trouble connecting to your well data. Check connectivity"
+	},
+	{
+		"assetName": "My Well Group",
+		"time": "09:45 | 04/24/18",
+		"notificationName": "Monthly optimization report",
+		"notificationContent": "New monthly optimization report is available. View now"
+	},
+	{
+		"assetName": "Aiden Well Group",
+		"time": "07:45 | 04/14/18",
+		"notificationName": "Anomalies detected",
+		"notificationContent": "Stats on your optimization group isn't adding up. Check now."
+	},
+	{
+		"assetName": "O'Connor Assets",
+		"time": "07:45 | 03/14/18",
+		"notificationName": "New optimization potential available",
+		"notificationContent": "Increase your production by 23% week over week. Check recommendations now."
+	},
+	{
+		"assetName": "O'Connor Well 1A",
+		"time": "15:45 | 04/13/18",
+		"notificationName": "Lost connectivity",
+		"notificationContent": "Well data is not logged for the last 2 hours. Check your well status"
+	},
+	{
+		"assetName": "Nev optimization Group",
+		"time": "07:45 | 04/14/18",
+		"notificationName": "Check network relationship update",
+		"notificationContent": "An admin just added a new set of wells to your asset network."
+	},
+	{
+		"assetName": "System Message",
+		"time": "07:45 | 04/14/18",
+		"notificationName": "Reduce clutter",
+		"notificationContent": "Getting too much alert messages? Update your settings."
+	}
+]

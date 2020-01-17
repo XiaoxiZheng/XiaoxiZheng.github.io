@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="530px" viewBox="0 0 375 530" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>search results</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="99"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.3%" height="102.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.341176471   0 0 0 0 0.411764706  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="26" height="26"></rect>
+        <rect id="path-5" x="0" y="0" width="375" height="99"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.3%" height="102.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.341176471   0 0 0 0 0.411764706  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="14.9194922 0 29.8389844 25.3631368 0 25.3631368"></polygon>
+        <rect id="path-9" x="0" y="0" width="375" height="99"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.3%" height="102.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.341176471   0 0 0 0 0.411764706  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-11" points="14.8693329 1.77635684e-15 29.7386658 14.8693329 14.8693329 29.7386658 -8.34887715e-14 14.8693329"></polyline>
+        <rect id="path-13" x="0" y="0" width="375" height="99"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.3%" height="102.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.341176471   0 0 0 0 0.411764706  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="26" height="26"></rect>
+        <rect id="path-17" x="0" y="0" width="375" height="99"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.3%" height="102.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.341176471   0 0 0 0 0.411764706  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-19" points="14.9194922 0 29.8389844 25.3631368 0 25.3631368"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notification-inbox" transform="translate(0.000000, -80.000000)">
+            <g id="search-results" transform="translate(0.000000, 80.000000)">
+                <g id="results" transform="translate(0.000000, 30.000000)">
+                    <g id="result">
+                        <g id="bkgd">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0D1A21" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="overflow" transform="translate(355.000000, 50.000000)" fill="#CAD4D9">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                        <text id="Take-action-to-incre" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="74">Take action to increase your production by 332 std/d.</tspan>
+                        </text>
+                        <text id="Optimize-your-well-n" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="29" y="222">Optimize your well now to increase the production by 332 std/d</tspan>
+                        </text>
+                        <text id="Decrease-WHP-to-321" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="53">Decrease WHP to 321 psig</tspan>
+                        </text>
+                        <g id="icons" transform="translate(15.000000, 43.000000)">
+                            <g id="/Status-Color-yellow3" fill="#FEC600">
+                                <rect id="Rectangle-2-Copy-46" x="0" y="0" width="40" height="40"></rect>
+                            </g>
+                            <g id="/Alert-Label-Shapes-Alert-3" transform="translate(5.000000, 5.000000)">
+                                <g id="Alert-Message/Status-Color/yellow3" stroke-width="1" fill-rule="evenodd" transform="translate(2.000000, 2.000000)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-3"></use>
+                                </g>
+                                <text id="3" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                                    <tspan x="11.808" y="18">3</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="1-min-ago-|-11/30/17" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="256.668" y="20">1 min ago | 11/30/17</tspan>
+                        </text>
+                        <text id="Bishop-A-#10" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="15" y="20">Bishop A #10</tspan>
+                        </text>
+                    </g>
+                    <g id="result-copy" transform="translate(0.000000, 100.000000)">
+                        <g id="bkgd">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#0D1A21" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="overflow" transform="translate(355.000000, 50.000000)" fill="#CAD4D9">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                        <text id="Warning!-Actions-may" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="74">Warning! Actions may be required. </tspan>
+                        </text>
+                        <text id="No-production-in-the" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="53">No production in the last 24hrs</tspan>
+                        </text>
+                        <g id="icons" transform="translate(15.000000, 43.000000)">
+                            <g id="/$alert-red" fill="#E53838">
+                                <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+                            </g>
+                            <g id="/Alert-Label-Shapes-Alert-1" transform="translate(5.000000, 5.000000)">
+                                <g id="Alert-Message/Status-Color/red3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.000000)">
+                                    <mask id="mask-8" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-7"></use>
+                                </g>
+                                <text id="🔢Level" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                                    <tspan x="11.7409102" y="20.9075779">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="09:13:56-|-11/28/17" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="262.2" y="20">09:13:56 | 11/28/17</tspan>
+                        </text>
+                        <text id="Bishop-A-#11" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="15" y="20">Bishop A #11</tspan>
+                        </text>
+                    </g>
+                    <g id="result-copy-2" transform="translate(0.000000, 200.000000)">
+                        <g id="bkgd">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="#0D1A21" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <g id="overflow" transform="translate(355.000000, 50.000000)" fill="#CAD4D9">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                        <text id="First-few-lines-of-a" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="74">First few lines of a generic notification</tspan>
+                        </text>
+                        <text id="Case-Update" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="53">Case Update</tspan>
+                        </text>
+                        <g id="icons" transform="translate(15.000000, 43.000000)">
+                            <g id="/$alert-orange" fill="#DD6B1F">
+                                <rect id="Rectangle-Copy-5" x="0" y="0" width="40" height="40"></rect>
+                            </g>
+                            <g id="/Alert-Label-Shapes-Alert-2" transform="translate(5.000000, 5.000000)">
+                                <g id="Alert-Message/Status-Color/orange3" stroke-width="1" fill-rule="evenodd">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-11"></use>
+                                </g>
+                                <text id="2" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                                    <tspan x="11.6991108" y="17.8153329">2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="08:34:34-|-11/26/17" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="262.2" y="20">08:34:34 | 11/26/17</tspan>
+                        </text>
+                        <text id="Bishop-A-#12" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="15" y="20">Bishop A #12</tspan>
+                        </text>
+                    </g>
+                    <g id="result-copy-3" transform="translate(0.000000, 300.000000)">
+                        <g id="bkgd">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <use fill="#0D1A21" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        </g>
+                        <g id="overflow" transform="translate(355.000000, 50.000000)" fill="#CAD4D9">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                        <text id="—" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="74">—</tspan>
+                        </text>
+                        <text id="Generic-Notification" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="53">Generic Notification</tspan>
+                        </text>
+                        <g id="icons" transform="translate(15.000000, 43.000000)">
+                            <g id="/Alert-Color-Blue2" fill="#4999E9">
+                                <rect id="Rectangle-2-Copy-49" x="0" y="0" width="40" height="40"></rect>
+                            </g>
+                            <g id="/Alert-Label-Shapes-Alert-3" transform="translate(5.000000, 5.000000)">
+                                <g id="Alert-Message/Status-Color/yellow3" stroke-width="1" fill-rule="evenodd" transform="translate(2.000000, 2.000000)">
+                                    <mask id="mask-16" fill="white">
+                                        <use xlink:href="#path-15"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-15"></use>
+                                </g>
+                                <text id="3" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                                    <tspan x="11.808" y="18">5</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="19:13:56-|-11/20/17" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="262.2" y="20">19:13:56 | 11/20/17</tspan>
+                        </text>
+                        <text id="Bishop-A-#13" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="15" y="20">Bishop A #13</tspan>
+                        </text>
+                    </g>
+                    <g id="result-copy-4" transform="translate(0.000000, 400.000000)">
+                        <g id="bkgd">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <use fill="#0D1A21" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        </g>
+                        <g id="overflow" transform="translate(355.000000, 50.000000)" fill="#CAD4D9">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                        <text id="Warning!-Actions-may" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="74">Warning! Actions may be required. </tspan>
+                        </text>
+                        <text id="Alert-Title" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="70" y="53">Alert Title</tspan>
+                        </text>
+                        <g id="icons" transform="translate(15.000000, 43.000000)">
+                            <g id="/$alert-red" fill="#E53838">
+                                <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+                            </g>
+                            <g id="/Alert-Label-Shapes-Alert-1" transform="translate(5.000000, 5.000000)">
+                                <g id="Alert-Message/Status-Color/red3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.000000)">
+                                    <mask id="mask-20" fill="white">
+                                        <use xlink:href="#path-19"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-19"></use>
+                                </g>
+                                <text id="🔢Level" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                                    <tspan x="11.7409102" y="20.9075779">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="16:34:12-|11/15/167" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="258.396" y="20">16:34:12 |11/15/167</tspan>
+                        </text>
+                        <text id="Bishop-A-#14" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="15" y="20">Bishop A #14</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="results-hd">
+                    <rect id="bkgd" fill="#103D4C" x="0" y="0" width="375" height="29"></rect>
+                    <text id="ALL-NOTIFICATIONS" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="15" y="12">ALL NOTIFICATIONS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

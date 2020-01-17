@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1220px" height="60px" viewBox="0 0 1220 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="35" width="1220" height="30"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-(detail-modal)" transform="translate(-30.000000, -105.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(30.000000, 100.000000)">
+                    <g id="Group">
+                        <g id="bkgd">
+                            <use fill-opacity="0.15" fill="#8BD6FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#121F26" stroke-width="1" x="0.5" y="35.5" width="1219" height="29"></rect>
+                        </g>
+                        <g id="breadcrumbs" transform="translate(25.000000, 35.000000)">
+                            <g id="context-bar">
+                                <g id="Breadcrumb-Links-Copy">
+                                    <text id="✏️Name" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="15" font-weight="normal" fill="#09819C">
+                                        <tspan x="0" y="20">Enterprise Name</tspan>
+                                    </text>
+                                    <polyline id="Caret" stroke="#09819C" points="129 13 123 19 117 13"></polyline>
+                                    <polyline id="Chevron" stroke="#121F26" transform="translate(146.000000, 15.000000) rotate(-90.000000) translate(-146.000000, -15.000000) " points="161 9 146 21 131 9"></polyline>
+                                </g>
+                                <g id="Breadcrumb-Links-Copy-2" transform="translate(167.000000, 0.000000)">
+                                    <text id="✏️Name" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="15" font-weight="normal" fill="#09819C">
+                                        <tspan x="0" y="20">Field Name</tspan>
+                                    </text>
+                                    <polyline id="Caret" stroke="#09819C" points="93 13 87 19 81 13"></polyline>
+                                    <polyline id="Chevron" stroke="#121F26" transform="translate(110.000000, 15.000000) rotate(-90.000000) translate(-110.000000, -15.000000) " points="125 9 110 21 95 9"></polyline>
+                                </g>
+                                <g id="Breadcrumb-Links-Copy-3" transform="translate(298.000000, 0.000000)">
+                                    <text id="✏️Name" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="15" font-weight="normal" fill="#FFFFFF">
+                                        <tspan x="0" y="20">Clark A #7</tspan>
+                                    </text>
+                                    <polyline id="Caret" stroke="#09819C" points="96 13 90 19 84 13"></polyline>
+                                </g>
+                                <g id="Breadcrumb-Dropdown" transform="translate(0.000000, 6.000000)">
+                                    <g id="Context-Browser-Btn"></g>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="RUN-ANALYSIS-OPTIMIZ" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="18" font-weight="normal" line-spacing="20">
+                            <tspan x="708.269531" y="14" fill="#09819C">RUN ANALYSIS          </tspan>
+                            <tspan x="858.695531" y="14" fill="#FFFFFF">OPTIMIZATION</tspan>
+                            <tspan x="970.439531" y="14" fill="#09819C">         PLAN         WELL DETAILS</tspan>
+                        </text>
+                        <polygon id="Page-1-Copy-16" fill="#FFFFFF" points="857 35 972 35 972 30 857 30"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

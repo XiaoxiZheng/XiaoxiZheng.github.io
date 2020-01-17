@@ -1,0 +1,236 @@
+app.coffee
+app.js
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/mirror.css
+framer/preview.png
+framer/style.css
+framer/version
+images/account.png
+images/dash.png
+images/mobile-main-nav.png
+images/notifications_history.png
+images/notifications_history.svg
+imported/UI Design Mobile@1x/images/Layer-$3_item_bottom_bar-mzzcmkiw.png
+imported/UI Design Mobile@1x/images/Layer-$3_item_bottom_bar-nufgnuq5.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-mee3qjy4.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-nei0meqz.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-nzm0reuw.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-nzywmtc3.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-qky3rkff.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-qzbfrtmw.png
+imported/UI Design Mobile@1x/images/Layer-$4_item_bottom_bar-rjyymdkz.png
+imported/UI Design Mobile@1x/images/Layer-$5_item_bottom_bar-qtqzqtmy.png
+imported/UI Design Mobile@1x/images/Layer-action_button-neyym0e2.png
+imported/UI Design Mobile@1x/images/Layer-action_buttons-q0ewmkzg.png
+imported/UI Design Mobile@1x/images/Layer-badge-mdq0oung.png
+imported/UI Design Mobile@1x/images/Layer-badge-mem2mdgw.png
+imported/UI Design Mobile@1x/images/Layer-badge-nkqznzdg.png
+imported/UI Design Mobile@1x/images/Layer-badge-nty3nung.png
+imported/UI Design Mobile@1x/images/Layer-badge-oem4meiw.png
+imported/UI Design Mobile@1x/images/Layer-badge-q0rbmtyz.png
+imported/UI Design Mobile@1x/images/Layer-badge-ree4neuz.png
+imported/UI Design Mobile@1x/images/Layer-badge-rercodne.png
+imported/UI Design Mobile@1x/images/Layer-badge-rtndntld.png
+imported/UI Design Mobile@1x/images/Layer-badge_copy-qzndndyx.png
+imported/UI Design Mobile@1x/images/Layer-Battery-memzmdi0.png
+imported/UI Design Mobile@1x/images/Layer-Battery-mjm5ody2.png
+imported/UI Design Mobile@1x/images/Layer-Battery-mkmwqzmx.png
+imported/UI Design Mobile@1x/images/Layer-Battery-qjvdotrf.png
+imported/UI Design Mobile@1x/images/Layer-Battery-rei1odu4.png
+imported/UI Design Mobile@1x/images/Layer-Battery-revbrdhc.png
+imported/UI Design Mobile@1x/images/Layer-Battery-rtfcqji2.png
+imported/UI Design Mobile@1x/images/Layer-card-odaxmuu4.png
+imported/UI Design Mobile@1x/images/Layer-card_copy-nuexmjk4.png
+imported/UI Design Mobile@1x/images/Layer-card_copy_2-mdrbnuex.png
+imported/UI Design Mobile@1x/images/Layer-cards-njhfoda1.png
+imported/UI Design Mobile@1x/images/Layer-chart-oue4nujd.png
+imported/UI Design Mobile@1x/images/Layer-chart-rjkyndmy.png
+imported/UI Design Mobile@1x/images/Layer-chart-ruq3ouuw.png
+imported/UI Design Mobile@1x/images/Layer-checkboxes-ntddntgx.png
+imported/UI Design Mobile@1x/images/Layer-component_suggestions_-mufcqtk0.png
+imported/UI Design Mobile@1x/images/Layer-content-nze1odkz.png
+imported/UI Design Mobile@1x/images/Layer-ed_avatar_small_copy-qkmxmzax.png
+imported/UI Design Mobile@1x/images/Layer-facet_icon-qjaznzdf.png
+imported/UI Design Mobile@1x/images/Layer-facet_icon-rdgwmem2.png
+imported/UI Design Mobile@1x/images/Layer-facet_icon-rjg1ndyy.png
+imported/UI Design Mobile@1x/images/Layer-facets-mza0oue1.png
+imported/UI Design Mobile@1x/images/Layer-facets-nzvbrey1.png
+imported/UI Design Mobile@1x/images/Layer-facets-oeexnum1.png
+imported/UI Design Mobile@1x/images/Layer-facets-rtu3mde4.png
+imported/UI Design Mobile@1x/images/Layer-grid-nzkwrumx.png
+imported/UI Design Mobile@1x/images/Layer-grid-qku0njk5.png
+imported/UI Design Mobile@1x/images/Layer-Group-othgneyw.png
+imported/UI Design Mobile@1x/images/Layer-header-m0m0qke4.png
+imported/UI Design Mobile@1x/images/Layer-header-njvdrejf.png
+imported/UI Design Mobile@1x/images/Layer-header-nzi0ndg5.png
+imported/UI Design Mobile@1x/images/Layer-header-qtdcn0y2.png
+imported/UI Design Mobile@1x/images/Layer-header-qtk2nzgw.png
+imported/UI Design Mobile@1x/images/Layer-header-rjkzmuvb.png
+imported/UI Design Mobile@1x/images/Layer-header-ruy3mdy4.png
+imported/UI Design Mobile@1x/images/Layer-help-rtqwqzvb.png
+imported/UI Design Mobile@1x/images/Layer-icons-m0i1rte0.png
+imported/UI Design Mobile@1x/images/Layer-icons-m0zfq0nd.png
+imported/UI Design Mobile@1x/images/Layer-icons-nuzbmjk1.png
+imported/UI Design Mobile@1x/images/Layer-icons-qjjcmzy2.png
+imported/UI Design Mobile@1x/images/Layer-icons-qzg2quy2.png
+imported/UI Design Mobile@1x/images/Layer-icons-rdi0nkiz.png
+imported/UI Design Mobile@1x/images/Layer-keyboard-m0m4rjrd.png
+imported/UI Design Mobile@1x/images/Layer-keyboard-njm1njey.png
+imported/UI Design Mobile@1x/images/Layer-keyboard_placeholder_-ntncmjc0.png
+imported/UI Design Mobile@1x/images/Layer-keyboard_placeholder_light_-qzrenzrc.png
+imported/UI Design Mobile@1x/images/Layer-labels-njg1rjiz.png
+imported/UI Design Mobile@1x/images/Layer-labels-oemwmtex.png
+imported/UI Design Mobile@1x/images/Layer-labels-qzi0nzkw.png
+imported/UI Design Mobile@1x/images/Layer-list-odven0fe.png
+imported/UI Design Mobile@1x/images/Layer-list-rdeyndrf.png
+imported/UI Design Mobile@1x/images/Layer-LockScreen_Notification-rdqyqurb.png
+imported/UI Design Mobile@1x/images/Layer-meta-oumxmzcx.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-mdnerkne.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-mtbfmuje.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-ndffrjy3.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-njlerjrb.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-nuy2nuve.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-nzjfotu5.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-qtg1nzy5.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-rja2ody5.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-rtq4rky5.png
+imported/UI Design Mobile@1x/images/Layer-micro_apps-ruizqjhg.png
+imported/UI Design Mobile@1x/images/Layer-more-ote3mzld.png
+imported/UI Design Mobile@1x/images/Layer-notification-mzayndjc.png
+imported/UI Design Mobile@1x/images/Layer-notification-ndhdodbd.png
+imported/UI Design Mobile@1x/images/Layer-notification-odizrufb.png
+imported/UI Design Mobile@1x/images/Layer-notifications-mdq1mjg0.png
+imported/UI Design Mobile@1x/images/Layer-notifications-mtq3qzmz.png
+imported/UI Design Mobile@1x/images/Layer-notifications-mumxrdg1.png
+imported/UI Design Mobile@1x/images/Layer-notifications-nke5rdlg.png
+imported/UI Design Mobile@1x/images/Layer-notifications-ntbdotnd.png
+imported/UI Design Mobile@1x/images/Layer-notifications-nzfcnkvb.png
+imported/UI Design Mobile@1x/images/Layer-notifications-nzi2ouqw.png
+imported/UI Design Mobile@1x/images/Layer-notifications-qundnjkw.png
+imported/UI Design Mobile@1x/images/Layer-notifications-req5ndhg.png
+imported/UI Design Mobile@1x/images/Layer-notifications-rtndrjq3.png
+imported/UI Design Mobile@1x/images/Layer-notifications_copy-qthfruzb.png
+imported/UI Design Mobile@1x/images/Layer-overflow-m0y1njm4.png
+imported/UI Design Mobile@1x/images/Layer-overflow-meiznja5.png
+imported/UI Design Mobile@1x/images/Layer-overflow-mkzgmeq1.png
+imported/UI Design Mobile@1x/images/Layer-overflow-mtmwn0q0.png
+imported/UI Design Mobile@1x/images/Layer-overflow-ndlcrtc1.png
+imported/UI Design Mobile@1x/images/Layer-overflow-nue3rum1.png
+imported/UI Design Mobile@1x/images/Layer-overflow-nzvdqjax.png
+imported/UI Design Mobile@1x/images/Layer-overflow-odzdnzk2.png
+imported/UI Design Mobile@1x/images/Layer-overflow-oeizmeze.png
+imported/UI Design Mobile@1x/images/Layer-overflow-oejfn0iy.png
+imported/UI Design Mobile@1x/images/Layer-overflow-oufgrthd.png
+imported/UI Design Mobile@1x/images/Layer-overflow-q0rcqufg.png
+imported/UI Design Mobile@1x/images/Layer-overflow-qtg2qunc.png
+imported/UI Design Mobile@1x/images/Layer-overflow-qtmwqui1.png
+imported/UI Design Mobile@1x/images/Layer-overflow-rji4mzg2.png
+imported/UI Design Mobile@1x/images/Layer-overflow-rkmxqkfd.png
+imported/UI Design Mobile@1x/images/Layer-page_header-muexouq2.png
+imported/UI Design Mobile@1x/images/Layer-page_header-oefequfg.png
+imported/UI Design Mobile@1x/images/Layer-peek_content_copy_2-mja0mdrb.png
+imported/UI Design Mobile@1x/images/Layer-photo-rkfdmdmw.png
+imported/UI Design Mobile@1x/images/Layer-preferences-oti3q0m0.png
+imported/UI Design Mobile@1x/images/Layer-profile-mdq5qjiw.png
+imported/UI Design Mobile@1x/images/Layer-profile-mduymkm0.png
+imported/UI Design Mobile@1x/images/Layer-profile-mee4ndnc.png
+imported/UI Design Mobile@1x/images/Layer-profile-mjm2ruze.png
+imported/UI Design Mobile@1x/images/Layer-profile-muqwnui2.png
+imported/UI Design Mobile@1x/images/Layer-profile-n0e4qtq4.png
+imported/UI Design Mobile@1x/images/Layer-profile-njqwodlb.png
+imported/UI Design Mobile@1x/images/Layer-profile-ody5oeff.png
+imported/UI Design Mobile@1x/images/Layer-profile-oue1mdi2.png
+imported/UI Design Mobile@1x/images/Layer-profile-qku0odu0.png
+imported/UI Design Mobile@1x/images/Layer-px_nav_favorite-qjuynuex.png
+imported/UI Design Mobile@1x/images/Layer-related-mum0mkjb.png
+imported/UI Design Mobile@1x/images/Layer-resolved-njq2rdq0.png
+imported/UI Design Mobile@1x/images/Layer-resolved-oum0ndy5.png
+imported/UI Design Mobile@1x/images/Layer-result-mzngounb.png
+imported/UI Design Mobile@1x/images/Layer-result-rjy4nki5.png
+imported/UI Design Mobile@1x/images/Layer-result_copy-mkvdnzze.png
+imported/UI Design Mobile@1x/images/Layer-result_copy-rtkznziz.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_2-qkuznjq0.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_2-qzhbquu5.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_3-oumxmeq4.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_3-rdm3mei0.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_4-mdvenum2.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_4-ndq1rdbf.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_5-oeq3mdmw.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_6-qjyzqjay.png
+imported/UI Design Mobile@1x/images/Layer-result_copy_7-njg0qtm5.png
+imported/UI Design Mobile@1x/images/Layer-results_hd-nzc0rkqy.png
+imported/UI Design Mobile@1x/images/Layer-results_hd-odcyrjve.png
+imported/UI Design Mobile@1x/images/Layer-search-ndy2nemz.png
+imported/UI Design Mobile@1x/images/Layer-search-odq4qjvg.png
+imported/UI Design Mobile@1x/images/Layer-search_box-ndlbodnf.png
+imported/UI Design Mobile@1x/images/Layer-search_box-qtnfnuy5.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-mzixreng.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-n0e5mtk4.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-ndm4nujc.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-ndy2mjbe.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-njk5qtiy.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-ody1mumy.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-qtbdqjmx.png
+imported/UI Design Mobile@1x/images/Layer-search_icon-qtgxnkyw.png
+imported/UI Design Mobile@1x/images/Layer-secondary_action_bar-mznfntbg.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-mzdgrtc4.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-nji0rjk4.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-ntgzmtzf.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-otg3req5.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-qjlemknc.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-rdnbm0nd.png
+imported/UI Design Mobile@1x/images/Layer-Status_Bar_Black-rjqzmtg0.png
+imported/UI Design Mobile@1x/images/Layer-system_header-qzffoee2.png
+imported/UI Design Mobile@1x/images/Layer-thinking-ndc4otbf.png
+imported/UI Design Mobile@1x/images/Layer-thinking-rezcrtle.png
+imported/UI Design Mobile@1x/images/Layer-user_profile_preferences_dark-munenjux.png
+imported/UI Design Mobile@1x/images/Layer-values-nuuymtjg.png
+imported/UI Design Mobile@1x/images/Layer-values-oey3mjvf.png
+imported/UI Design Mobile@1x/images/Layer-values-rdewoda0.png
+imported/UI Design Mobile@1x/images/Layer-x-njaynzcz.png
+imported/UI Design Mobile@1x/images/Layer-x-rei4oeuy.png
+imported/UI Design Mobile@1x/images/Layer-x-rum3nzgz.png
+imported/UI Design Mobile@1x/layers.json
+imported/UI Design Mobile@1x/layers.json.js
+index.html
+modules/demo_data.coffee
+modules/material-kit-app-bar.coffee
+modules/material-kit-banner.coffee
+modules/material-kit-button.coffee
+modules/material-kit-dialog.coffee
+modules/material-kit-icon.coffee
+modules/material-kit-layout.coffee
+modules/material-kit-library.coffee
+modules/material-kit-nav-bar.coffee
+modules/material-kit-snack-bar.coffee
+modules/material-kit-stack.coffee
+modules/material-kit-status-bar.coffee
+modules/material-kit-text.coffee
+modules/material-kit-utils.coffee
+modules/material-kit-video.coffee
+modules/material-kit.coffee

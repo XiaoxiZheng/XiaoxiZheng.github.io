@@ -1,0 +1,66 @@
+[
+	{
+		"notificationName": "Decrease WHP to 321 psig",
+		"notificationContent": "Take action to increase production on the single well"
+	},
+	{
+		"notificationName": "No production in the last 24 hours",
+		"notificationContent": "Examine to see if any further action is needed"
+	},
+	{
+		"notificationName": "New group optimization potential",
+		"notificationContent": "Take action to increase production for the muti-well group"
+	},
+	{
+		"notificationName": "New optimization update",
+		"notificationContent": "Group muti-well optimization is on track"
+	},
+	{
+		"notificationName": "Unknown system error",
+		"notificationContent": "We are having trouble connecting to your client API"
+	},
+	{
+		"notificationName": "Increase frequency to 142 Hz",
+		"notificationContent": "Take action to increase production on the single well"
+	},
+	{
+		"notificationName": "Request approved",
+		"notificationContent": "Your case generation request has been approved"
+	},
+	{
+		"notificationName": "Asset configuration update",
+		"notificationContent": "Asset network has been updated by an administrator"
+	},
+	{
+		"notificationName": "System update",
+		"notificationContent": "Intellistream just updated. Take a tour for the new features now!"
+	},
+	{
+		"notificationName": "One or more of your wells may be offline",
+		"notificationContent": "We are having trouble connecting to your well data. Check connectivity"
+	},
+	{
+		"notificationName": "Monthly optimization report",
+		"notificationContent": "New monthly optimization report is available. View now"
+	},
+	{
+		"notificationName": "Anomalies detected",
+		"notificationContent": "Stats on your optimization group isn't adding up. Check now."
+	},
+	{
+		"notificationName": "New optimization potential available",
+		"notificationContent": "Increase your production by 23% week over week. Check recommendations now."
+	},
+	{
+		"notificationName": "Lost connectivity",
+		"notificationContent": "Well data is not logged for the last 2 hours. Check your well status"
+	},
+	{
+		"notificationName": "Check network relationship update",
+		"notificationContent": "An admin just added a new set of wells to your asset network."
+	},
+	{
+		"notificationName": "Reduce clutter",
+		"notificationContent": "Getting too much alert messages? Update your settings."
+	}
+]

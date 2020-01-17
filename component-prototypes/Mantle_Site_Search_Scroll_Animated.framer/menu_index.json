@@ -1,0 +1,99 @@
+{
+  "Application_Frame":
+    {
+      "Headers":
+        {
+          "Primary": false,
+          "Secondary": false,
+          "Tabs": false
+        },
+      "Side_Panel": false,
+      "Footer": false
+    },
+  "Application_Canvas": {
+      "Layouts":
+        {
+          "Dashboard": false,
+          "Inbox": false,
+          "Index": false,
+          "Detail": false,
+          "Timeline": false
+        },
+      "Card View": false,
+      "List View": false
+    },
+  "Messaging": {
+      "Conditions":
+        {
+          "Important": false,
+          "Warning": false,
+          "Error": false,
+          "Info": false,
+          "Unknown": false,
+          "Healthy": false
+        },
+      "Formats":
+        {
+          "Alerts": [
+            {
+              "Single": false,
+              "Stacked": false
+            }
+          ],
+          "Modal": false,
+          "Notifications": false
+        }
+    },
+  "Input_Elements":
+    {
+      "Buttons":
+        {
+          "Primary_Action": false,
+          "Secondary_Action": false,
+          "Radio": false,
+          "Checkbox": false
+        },
+      "Datetime": false,
+      "Text_Input": false
+    },
+  "Data_Navigation":
+    {
+      "Data_Browser": false,
+      "Data_Grid": false,
+      "Loaders":
+        {
+          "Bars": false,
+          "Spinners": false
+        },
+      "Tree": false
+    },
+  "Data_Visualizations":
+    {
+      "Bar_Charts":
+        {
+          "Basic": false,
+          "Floating": false,
+          "Stacked": false
+        },
+      "Circle_Charts":
+        {
+          "Pie": false,
+          "Percent Circle": false,
+          "Radial": false
+        },
+      "Line_Charts":
+        {
+          "Curves": false,
+          "Sparkline": false,
+          "Time_Series": false
+        },
+      "Key_Value_Pairs": false,
+      "KPI_Spines": false,
+      "Plot_Charts":
+        {
+          "Heatmap": false,
+          "Scatterplot": false
+        },
+      "Maps": false
+    }
+}

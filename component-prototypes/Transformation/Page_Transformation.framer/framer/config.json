@@ -1,0 +1,24 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "fullscreen",
+  "sharedPrototype" : 0,
+  "projectId" : "8A2FBA9B-92F6-4A10-912A-7A9123C03C87",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
+  "foldedCodeRanges" : [
+    "{0, 1402}",
+    "{1402, 191}",
+    "{1593, 3427}",
+    "{5020, 2554}",
+    "{7574, 3355}",
+    "{10929, 5846}",
+    "{16776, 229}"
+  ],
+  "deviceScale" : 1
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="14.8693329 1.77635684e-15 29.7386658 14.8693329 14.8693329 29.7386658 -8.34887715e-14 14.8693329"></polyline>
+    </defs>
+    <g id="notification-history-(peek)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-275.000000, -523.000000)">
+        <g id="results" transform="translate(260.000000, 88.000000)">
+            <g id="result-copy-2" transform="translate(0.000000, 392.000000)">
+                <g id="icons" transform="translate(15.000000, 43.000000)">
+                    <g id="/$alert-orange" fill="#DD6B1F">
+                        <rect id="Rectangle-Copy-5" x="0" y="0" width="40" height="40"></rect>
+                    </g>
+                    <g id="/Alert-Label-Shapes-Alert-2" transform="translate(5.000000, 5.000000)">
+                        <g id="Alert-Message/Status-Color/orange3" stroke-width="1" fill-rule="evenodd">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="2" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#2C404C">
+                            <tspan x="11.6991108" y="17.8153329">2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

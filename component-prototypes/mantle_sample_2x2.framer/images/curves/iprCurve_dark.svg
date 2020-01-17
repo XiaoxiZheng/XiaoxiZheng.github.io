@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="231px" viewBox="0 0 355 231" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ipr </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-(detail-modal)" transform="translate(-861.000000, -330.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(30.000000, 100.000000)">
+                    <g id="sandbox" transform="translate(25.000000, 125.000000)">
+                        <g id="charts" transform="translate(0.000000, 75.000000)">
+                            <g id="ipr-" transform="translate(805.000000, 0.000000)">
+                                <text id="IPR-CURVE" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="16" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="0" y="42">IPR CURVE</tspan>
+                                </text>
+                                <polyline id="Line-Copy-2" stroke="#FFFFFF" stroke-linecap="square" points="26 60 26 240 356 240"></polyline>
+                                <text id="FLOW-PRESSURE-(psia)" transform="translate(8.799998, 120.000000) rotate(-90.000000) translate(-8.799998, -120.000000) " font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="-49.1900024" y="121.799998">FLOW PRESSURE (psia)</tspan>
+                                </text>
+                                <text id="FLOW-RATE-(stb/d)" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="153.81" y="259">FLOW RATE (stb/d)</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

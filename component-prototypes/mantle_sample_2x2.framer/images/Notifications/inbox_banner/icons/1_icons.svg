@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="20 0 40 40 0 40"></polygon>
+    </defs>
+    <g id="/alerts-inbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14.000000, -239.000000)">
+        <g id="notification" transform="translate(0.000000, 199.000000)">
+            <g id="icons" transform="translate(14.800000, 40.000000)">
+                <g id="🎨Color-Box" transform="translate(-0.000000, 0.000000)">
+                    <g id="Alert-Message/Status-Color/red3" transform="translate(-0.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#E53838" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="🔢Level" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="15" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="15.6099997" y="23.8767706">1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

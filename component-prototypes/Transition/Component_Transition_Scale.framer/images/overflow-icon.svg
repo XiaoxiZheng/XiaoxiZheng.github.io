@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="20px" viewBox="0 0 4 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>overflow copy 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dash-table-detail-light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1225.000000, -602.000000)">
+        <g id="table" transform="translate(30.000000, 150.000000)" fill="#09819C">
+            <g id="tbody" transform="translate(0.000000, 39.000000)">
+                <g id="actions" transform="translate(1043.000000, 3.000000)">
+                    <g id="overflow-copy-10" transform="translate(152.000000, 410.000000)">
+                        <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                        <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                        <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

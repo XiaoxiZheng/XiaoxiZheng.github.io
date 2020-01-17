@@ -1,0 +1,38 @@
+[
+	{
+		"Title": "Virtual Flow Meter via Network Model",
+		"Description": "Uncertainty quantification on a Process Digital Twin."
+	},
+	{
+		"Title": "PCM Ionic Models",
+		"Description": "PCM Digital Twin + Ionic Model for Refinery Corrosion Risk Monitoring."
+	},
+	{
+		"Title": "ROP Optimization",
+		"Description": "Rate of Penetration Optimization"
+	},
+	{
+		"Title": "Furnace Creep",
+		"Description": "Creep damage and wall thinning prediction for furnace boiler tubes."
+	},
+	{
+		"Title": "Multiwell Optimization",
+		"Description": "Tune oil production through optimization of multiple wells."
+	},
+	{
+		"Title": "Predictive Corrosion Management",
+		"Description": "Use hybrid physics corrosion models to forecast degradation of pipelines."
+	},
+	{
+		"Title": "KBC PetroSIM Network Visualization",
+		"Description": "Visualizing Process Connectivity from a PetroSIM model."
+	},
+	{
+		"Title": "HX Fouling & Furnace Power Predictive Analytic",
+		"Description": "Orchestrating process nets and probabilistic methods for Process Analytics."
+	},
+	{
+		"Title": "Centrifugal Compressor Performance MicroApp",
+		"Description": "Monitoring compressor performance with Physics Based Modeling."
+	}
+]

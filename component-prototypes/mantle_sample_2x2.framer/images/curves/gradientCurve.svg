@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="356px" height="228px" viewBox="0 0 356 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>gradient</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="optimization" transform="translate(-460.000000, -334.000000)">
+            <g id="layout">
+                <g id="content" transform="translate(0.000000, 100.000000)">
+                    <g id="sandbox" transform="translate(0.000000, 125.000000)">
+                        <g id="charts" transform="translate(55.000000, 105.000000)">
+                            <g id="gradient" transform="translate(405.000000, 0.000000)">
+                                <g id="grid-copy-2" transform="translate(25.930851, 29.000000)" stroke="#0D1A21" stroke-linecap="square">
+                                    <polyline id="Line-Copy-2" points="-4.8174172e-13 1 -4.8316906e-13 181 329.12234 181"></polyline>
+                                </g>
+                                <g id="TITLE-LABELS" fill="#0D1A21" font-family="GEInspiraSans-Regular, GE Inspira Sans" font-weight="normal">
+                                    <text id="TRUE-VERTICAL-DEPTH" transform="translate(9.799998, 120.000000) rotate(-90.000000) translate(-9.799998, -120.000000) " font-size="12">
+                                        <tspan x="-57.3520024" y="121.799998">TRUE VERTICAL DEPTH (m)</tspan>
+                                    </text>
+                                    <text id="GRADIENT-CURVE" font-size="15">
+                                        <tspan x="0" y="15">GRADIENT CURVE</tspan>
+                                    </text>
+                                    <text id="PRESSURE-(psig)" font-size="12">
+                                        <tspan x="159.215426" y="229">PRESSURE (psig)</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

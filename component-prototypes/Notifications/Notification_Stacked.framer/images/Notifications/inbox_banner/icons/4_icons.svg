@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="37px" viewBox="0 0 39 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="20 0 39.0211303 13.8196601 31.755705 36.1803399 8.24429495 36.1803399 0.978869674 13.8196601"></polygon>
+    </defs>
+    <g id="/alerts-inbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-16.000000, -462.000000)">
+        <g id="notification" transform="translate(0.000000, 417.000000)">
+            <g id="icons" transform="translate(14.800000, 40.000000)">
+                <g id="⚠️Alert" transform="translate(1.000000, 5.000000)">
+                    <g id="Alert-Message/Status-Color/blue3" transform="translate(0.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#4999E9" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="4" font-family="GEInspiraSans-Bold, GE Inspira Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="15.274686" y="17.2714844">4</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,110 @@
+[
+   { "Application Frame":
+      {
+        "Headers":
+          {
+            "Primary": false,
+            "Secondary": false,
+            "Tabs": false
+          },
+        "Side Panel": false,
+        "Footer": false
+      }
+   },
+   {
+    "Application Canvas": {
+        "Layouts":
+          {
+            "Dashboard": false,
+            "Inbox": false,
+            "Index": false,
+            "Detail": false,
+            "Timeline": false
+          },
+        "Card View": false,
+        "List View": false
+      }
+   },
+   {
+    "Messaging": {
+        "Conditions":
+          {
+            "Important": false,
+            "Warning": false,
+            "Error": false,
+            "Info": false,
+            "Unknown": false,
+            "Healthy": false
+          },
+        "Formats":
+          {
+            "Alerts": [
+              {
+                "Single": false,
+                "Stacked": false
+              }
+            ],
+            "Modal": false,
+            "Notifications": false
+          }
+      }
+   },
+   {
+    "Input Elements":
+      {
+        "Buttons":
+          {
+            "Primary Action": false,
+            "Secondary Action": false,
+            "Radio": false,
+            "Checkbox": false
+          },
+        "Datetime": false,
+        "Text Input": false
+      }
+   },
+   {
+    "Data Navigation":
+      {
+        "Data Browser": false,
+        "Data Grid": false,
+        "Loaders":
+          {
+            "Bars": false,
+            "Spinners": false
+          },
+        "Tree": false
+      }
+   },
+   {
+    "Data Visualizations":
+      {
+        "Bar Charts":
+          {
+            "Basic": false,
+            "Floating": false,
+            "Stacked": false
+          },
+        "Circle Charts":
+          {
+            "Pie": false,
+            "Percent Circle": false,
+            "Radial": false
+          },
+        "Line Charts":
+          {
+            "Curves": false,
+            "Sparkline": false,
+            "Time Series": false
+          },
+        "Key Value Pairs": false,
+        "KPI Spines": false,
+        "Plot Charts":
+          {
+            "Heatmap": false,
+            "Scatterplot": false
+          },
+        "Maps": false
+      }
+   }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="38px" viewBox="0 0 1280 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>breadcrumb/dark copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1280" height="30"></rect>
+        <filter x="-0.5%" y="-16.7%" width="101.1%" height="146.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="px-app-header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -48.000000)">
+        <g id="breadcrumb/dark-copy-2" transform="translate(0.000000, 50.000000)">
+            <g id="Rectangle-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#032C36" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Context-Browser-Btn" transform="translate(19.000000, 0.000000)">
+                <rect id="Rectangle-2" x="606" y="0" width="30" height="30"></rect>
+                <path d="M16.8181818,19.5454545 L14.5454545,19.5454545 L14.5454545,15.4545455 C14.5454545,15.2 14.3454545,15 14.0909091,15 L9.09090909,15 L9.09090909,11.3181818 C10.6272727,11.0909091 11.8181818,9.78181818 11.8181818,8.18181818 C11.8181818,6.42727273 10.3909091,5 8.63636364,5 C6.88181818,5 5.45454545,6.42727273 5.45454545,8.18181818 C5.45454545,9.78181818 6.64545455,11.0909091 8.18181818,11.3181818 L8.18181818,15 L3.18181818,15 C2.92727273,15 2.72727273,15.2 2.72727273,15.4545455 L2.72727273,19.5454545 L0.454545455,19.5454545 C0.2,19.5454545 0,19.7454545 0,20 L0,24.5454545 C0,24.8 0.2,25 0.454545455,25 L5.90909091,25 C6.16363636,25 6.36363636,24.8 6.36363636,24.5454545 L6.36363636,20 C6.36363636,19.7454545 6.16363636,19.5454545 5.90909091,19.5454545 L3.63636364,19.5454545 L3.63636364,15.9090909 L13.6363636,15.9090909 L13.6363636,19.5454545 L11.3636364,19.5454545 C11.1090909,19.5454545 10.9090909,19.7454545 10.9090909,20 L10.9090909,24.5454545 C10.9090909,24.8 11.1090909,25 11.3636364,25 L16.8181818,25 C17.0727273,25 17.2727273,24.8 17.2727273,24.5454545 L17.2727273,20 C17.2727273,19.7454545 17.0727273,19.5454545 16.8181818,19.5454545 Z M6.36363636,8.18181818 C6.36363636,6.92727273 7.38181818,5.90909091 8.63636364,5.90909091 C9.89090909,5.90909091 10.9090909,6.92727273 10.9090909,8.18181818 C10.9090909,9.43636364 9.89090909,10.4545455 8.63636364,10.4545455 C7.38181818,10.4545455 6.36363636,9.43636364 6.36363636,8.18181818 Z M5.45454545,20.4545455 L5.45454545,24.0909091 L0.909090909,24.0909091 L0.909090909,20.4545455 L5.45454545,20.4545455 Z M16.3636364,24.0909091 L11.8181818,24.0909091 L11.8181818,20.4545455 L16.3636364,20.4545455 L16.3636364,24.0909091 Z" id="Shape" fill="#E2E8ED" fill-rule="nonzero"></path>
+            </g>
+            <g id="Breadcrumb-Links" transform="translate(53.000000, 5.000000)">
+                <g id="Breadcrumb/Dark/Link/Default">
+                    <g id="/Default-Breadcrumb-Link-Dark">
+                        <g id="/State/Default">
+                            <text id="✏️Name" font-family="GEInspiraSans, GE Inspira Sans" font-size="15" font-weight="normal" fill="#B6C3CC">
+                                <tspan x="0" y="14.5">Groups</tspan>
+                            </text>
+                            <polyline id="chevron" stroke="#4C6472" transform="translate(59.000000, 10.000000) rotate(-90.000000) translate(-59.000000, -10.000000) " points="65 7 59 13 53 7"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <g id="Breadcrumb/Dark/Link/Default" transform="translate(70.000000, 0.000000)">
+                    <g id="/Default-Breadcrumb-Link-Dark">
+                        <g id="/State/Default">
+                            <text id="✏️Name" font-family="GEInspiraSans, GE Inspira Sans" font-size="15" font-weight="normal" fill="#B6C3CC">
+                                <tspan x="0" y="14.5">Green A Unit</tspan>
+                            </text>
+                            <polyline id="chevron" stroke="#4C6472" transform="translate(94.000000, 10.000000) rotate(-90.000000) translate(-94.000000, -10.000000) " points="100 7 94 13 88 7"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

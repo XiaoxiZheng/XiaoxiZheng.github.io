@@ -1,0 +1,1 @@
+exports.echarts = require "echarts"

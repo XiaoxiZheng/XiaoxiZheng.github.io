@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "AI Factory",
+		"Description": "A modeling framework designed to accelerate the entire lifecycle of analytics from exploring datasets to maintaining models in production. "
+	},
+	{
+		"Title": "Streaming Anomaly Detection",
+		"Description": "Real time unsupervised anomaly detection with live data for FPSO applications."
+	},
+	{
+		"Title": "Rotor Kit Anomaly Detection",
+		"Description": "AI-based automated anomaly detection on rotor kit data."
+	},
+	{
+		"Title": "Anomaly Detection for Petrochemical Applications",
+		"Description": "Unsupervised anomaly detection and state detection"
+	},
+	{
+		"Title": "Time Search",
+		"Description": "Quickly identify similar patterns in timeseries data"
+	},
+	{
+		"Title": "Remaining Useful Life",
+		"Description": "Predict remaining useful life of your fleet of Electric Submersible Pumps (ESPs)"
+	},
+	{
+		"Title": "AI-based RLS Fault Detection",
+		"Description": "Detect fault pattern by applying deep learning methods"
+	},
+	{
+		"Title": "O&G Language Model",
+		"Description": "Intelligent Q&A Application Powered by Natural Language Understanding"
+	},
+	{
+		"Title": "Natural Language Agent for Custom O&G Text",
+		"Description": "Information mining, question and answer, content analysis and search agent for unstructured text"
+	},
+	{
+		"Title": "Production Estimation",
+		"Description": "Use network models to estimate production levels and evaluate uncertainty"
+	}
+]
