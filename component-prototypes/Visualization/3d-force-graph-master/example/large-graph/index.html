@@ -1,6 +1,6 @@
 <head>
-  <style> 
-    body { margin: 0; color:#000000;} 
+  <style>
+    body { margin: 0; color:#000000;}
 
   </style>
 
@@ -17,9 +17,9 @@
 
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('./blocks.json')
-      .backgroundColor('#FFFFFF')  
+      .backgroundColor('#000000')
       .nodeAutoColorBy('user')
-      .nodeLabel(node => `<p style = "color:black;"> ${node.user}: ${node.description} </p>`)
+      .nodeLabel(node => `<p style = "color:white;"> ${node.user}: ${node.description} </p>`)
       .onNodeHover(node => elem.style.cursor = node ? 'pointer' : null)
       // .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));
   </script>
